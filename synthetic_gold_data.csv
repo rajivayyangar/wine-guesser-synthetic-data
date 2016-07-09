@@ -1,81 +1,721 @@
-,botrytis,color_concentration,floral,hue,oak,pommaceous_fruit,pyrazines,residual_sugar,stone_fruit,style_name,terpenes,thiols
-0,0,light,0,yellow,0,0,1,dry,0,New Zealand Sauvignon Blanc,0,1
-1,0,moderate,0,yellow,0,0,1,dry,0,New Zealand Sauvignon Blanc,0,1
-2,0,light,0,yellow,0,0,1,dry,0,New Zealand Sauvignon Blanc,0,1
-3,0,light,1,gold,0,0,1,dry,0,New Zealand Sauvignon Blanc,0,1
-4,0,light,0,straw,0,0,1,dry,0,New Zealand Sauvignon Blanc,0,1
-5,0,light,0,straw,0,1,1,dry,1,New Zealand Sauvignon Blanc,0,1
-6,0,moderate,0,straw,0,1,1,dry,1,New Zealand Sauvignon Blanc,0,1
-7,0,light,0,yellow,0,0,1,dry,0,New Zealand Sauvignon Blanc,0,1
-8,0,light,0,straw,1,0,1,dry,0,New Zealand Sauvignon Blanc,0,1
-9,0,moderate,0,straw,0,0,0,dry,0,New Zealand Sauvignon Blanc,1,1
-10,0,moderate,1,straw,0,0,1,dry,0,New Zealand Sauvignon Blanc,0,1
-11,0,moderate,0,yellow,0,0,1,dry,1,New Zealand Sauvignon Blanc,0,0
-12,0,moderate,0,straw,0,0,1,dry,0,New Zealand Sauvignon Blanc,0,0
-13,0,light,1,straw,1,0,1,dry,0,New Zealand Sauvignon Blanc,0,1
-14,0,light,0,straw,0,0,0,dry,0,New Zealand Sauvignon Blanc,0,1
-15,0,light,0,yellow,0,0,1,dry,1,New Zealand Sauvignon Blanc,0,1
-16,0,light,0,straw,0,0,1,dry,0,New Zealand Sauvignon Blanc,0,1
-17,0,moderate,0,gold,0,0,1,dry,0,New Zealand Sauvignon Blanc,0,0
-18,0,light,0,yellow,0,0,1,dry,0,New Zealand Sauvignon Blanc,0,1
-19,0,moderate,1,yellow,0,0,1,dry,0,New Zealand Sauvignon Blanc,1,0
-0,0,light,0,gold,0,0,0,dry,1,Alsace Pinot Gris,1,1
-1,1,moderate,0,gold,0,0,0,slight_rs,1,Alsace Pinot Gris,0,0
-2,0,light,0,straw,0,0,0,sweet,1,Alsace Pinot Gris,1,0
-3,0,moderate,1,gold,0,0,0,off-dry,1,Alsace Pinot Gris,0,1
-4,0,light,0,yellow,0,0,0,slight_rs,1,Alsace Pinot Gris,0,0
-5,0,moderate,1,yellow,0,0,0,dry,1,Alsace Pinot Gris,1,1
-6,0,light,1,gold,0,0,0,slight_rs,1,Alsace Pinot Gris,0,0
-7,1,elevated,0,yellow,0,0,0,slight_rs,1,Alsace Pinot Gris,0,0
-8,0,moderate,0,straw,0,1,0,dry,1,Alsace Pinot Gris,0,0
-9,0,moderate,1,gold,0,1,0,slight_rs,1,Alsace Pinot Gris,1,0
-10,1,elevated,0,gold,0,1,0,off-dry,1,Alsace Pinot Gris,0,1
-11,1,moderate,1,gold,0,0,0,off-dry,0,Alsace Pinot Gris,1,0
-12,0,light,0,gold,0,0,0,slight_rs,1,Alsace Pinot Gris,0,1
-13,1,light,0,gold,0,0,0,slight_rs,1,Alsace Pinot Gris,0,0
-14,0,light,1,gold,0,0,0,slight_rs,1,Alsace Pinot Gris,0,0
-15,0,light,1,gold,0,0,0,dry,0,Alsace Pinot Gris,0,0
-16,1,light,1,yellow,0,0,0,slight_rs,0,Alsace Pinot Gris,1,0
-17,1,moderate,0,gold,0,1,0,sweet,1,Alsace Pinot Gris,0,0
-18,1,light,0,gold,0,0,0,off-dry,1,Alsace Pinot Gris,0,0
-19,0,moderate,0,gold,0,0,0,slight_rs,0,Alsace Pinot Gris,0,1
-0,0,moderate,0,yellow,0,0,0,dry,1,Savennieres Chenin Blanc,0,0
-1,0,moderate,0,straw,0,0,0,dry,1,Savennieres Chenin Blanc,0,0
-2,0,elevated,0,gold,0,0,0,dry,0,Savennieres Chenin Blanc,0,0
-3,0,elevated,0,gold,0,1,0,dry,0,Savennieres Chenin Blanc,0,1
-4,0,elevated,0,gold,0,1,0,dry,1,Savennieres Chenin Blanc,0,1
-5,0,elevated,0,gold,0,0,0,dry,0,Savennieres Chenin Blanc,0,0
-6,0,elevated,0,straw,0,0,0,dry,1,Savennieres Chenin Blanc,0,1
-7,0,elevated,0,gold,0,1,0,dry,1,Savennieres Chenin Blanc,0,1
-8,0,moderate,0,yellow,0,0,0,dry,1,Savennieres Chenin Blanc,0,0
-9,0,elevated,0,gold,0,0,0,dry,0,Savennieres Chenin Blanc,0,0
-10,0,elevated,0,yellow,0,0,0,dry,0,Savennieres Chenin Blanc,0,1
-11,0,elevated,0,gold,0,1,0,dry,1,Savennieres Chenin Blanc,0,0
-12,0,elevated,0,gold,0,0,0,dry,1,Savennieres Chenin Blanc,0,1
-13,0,moderate,0,yellow,0,0,0,dry,0,Savennieres Chenin Blanc,0,1
-14,0,elevated,0,gold,0,0,0,dry,1,Savennieres Chenin Blanc,0,0
-15,0,moderate,0,yellow,0,1,0,dry,0,Savennieres Chenin Blanc,0,0
-16,0,moderate,0,gold,0,0,0,dry,1,Savennieres Chenin Blanc,0,0
-17,0,elevated,0,gold,0,0,0,dry,1,Savennieres Chenin Blanc,0,0
-18,0,elevated,0,yellow,0,0,0,dry,1,Savennieres Chenin Blanc,0,0
-19,0,elevated,0,gold,0,1,0,dry,0,Savennieres Chenin Blanc,0,1
-0,0,moderate,0,yellow,1,1,0,dry,0,California Chardonnay,0,0
-1,0,light,0,yellow,1,1,0,dry,0,California Chardonnay,0,0
-2,0,light,0,gold,1,1,0,dry,1,California Chardonnay,0,0
-3,0,moderate,0,gold,1,1,0,dry,1,California Chardonnay,0,1
-4,0,light,0,yellow,0,1,0,dry,0,California Chardonnay,0,0
-5,0,moderate,0,yellow,1,1,0,dry,0,California Chardonnay,0,0
-6,0,light,0,straw,1,0,0,dry,0,California Chardonnay,0,0
-7,0,light,0,yellow,1,1,0,dry,0,California Chardonnay,0,0
-8,0,light,0,gold,1,1,0,dry,0,California Chardonnay,0,0
-9,0,light,0,gold,1,1,0,dry,0,California Chardonnay,0,0
-10,0,moderate,0,yellow,1,1,0,dry,0,California Chardonnay,0,0
-11,0,moderate,0,gold,1,1,0,dry,0,California Chardonnay,0,0
-12,0,moderate,0,straw,1,1,0,dry,0,California Chardonnay,0,1
-13,0,elevated,0,yellow,1,1,0,dry,0,California Chardonnay,0,1
-14,0,moderate,0,yellow,1,1,0,dry,0,California Chardonnay,0,0
-15,0,moderate,0,gold,1,1,0,dry,0,California Chardonnay,0,0
-16,0,elevated,0,gold,0,1,0,dry,0,California Chardonnay,0,1
-17,0,moderate,0,yellow,1,1,0,dry,0,California Chardonnay,0,0
-18,0,moderate,0,yellow,1,1,0,dry,0,California Chardonnay,0,0
-19,0,light,0,gold,1,0,0,dry,0,California Chardonnay,0,0
+,acid,alcohol,botrytis,color_concentration,floral,high_terpenes,hue,low_terpenes,oak,oxidation,phenolic_bitterness,pommaceous_fruit,pyrazines,residual_sugar,stone_fruit,style_name,thiols,white_pepper
+0,high,moderate,0,light,1,0,yellow,1,0,0,1,0,0,dry,0,Gruner Veltliner - Federspiel,0,0
+1,high,moderate,0,light,1,0,straw,0,0,0,1,0,0,dry,0,Gruner Veltliner - Federspiel,1,1
+2,high,moderate,0,light,1,0,straw,1,0,0,1,0,0,dry,1,Gruner Veltliner - Federspiel,1,1
+3,elevated,moderate,0,light,0,0,straw,0,0,0,1,0,0,dry,1,Gruner Veltliner - Federspiel,1,1
+4,elevated,moderate,0,light,1,0,straw,1,0,0,1,0,0,dry,1,Gruner Veltliner - Federspiel,1,1
+5,high,moderate,0,light,1,0,straw,1,0,0,1,0,0,dry,1,Gruner Veltliner - Federspiel,0,0
+6,high,moderate,0,light,0,0,straw,0,0,0,1,0,0,dry,1,Gruner Veltliner - Federspiel,1,0
+7,elevated,moderate,0,moderate,0,0,straw,1,0,0,1,0,0,dry,1,Gruner Veltliner - Federspiel,0,1
+8,elevated,moderate,0,light,0,0,yellow,1,0,0,1,0,0,dry,1,Gruner Veltliner - Federspiel,1,1
+9,high,moderate,0,light,0,0,straw,0,0,0,1,0,0,dry,1,Gruner Veltliner - Federspiel,1,1
+10,elevated,moderate,0,moderate,1,0,yellow,1,0,0,1,0,0,dry,1,Gruner Veltliner - Federspiel,1,1
+11,high,moderate,0,light,1,0,straw,1,0,0,1,0,0,dry,1,Gruner Veltliner - Federspiel,0,1
+12,elevated,moderate,0,light,1,0,straw,0,0,0,1,0,0,dry,1,Gruner Veltliner - Federspiel,1,1
+13,high,moderate,0,moderate,1,0,yellow,1,0,0,1,0,0,dry,1,Gruner Veltliner - Federspiel,0,1
+14,elevated,moderate,0,light,1,0,straw,1,0,0,1,0,0,dry,0,Gruner Veltliner - Federspiel,0,1
+15,elevated,moderate,0,moderate,1,0,straw,1,0,0,1,0,0,dry,1,Gruner Veltliner - Federspiel,1,1
+16,elevated,moderate,0,light,1,0,straw,1,0,0,1,0,0,dry,1,Gruner Veltliner - Federspiel,0,1
+17,elevated,moderate,0,light,1,0,yellow,1,0,0,1,0,0,dry,0,Gruner Veltliner - Federspiel,0,1
+18,elevated,moderate,0,light,1,0,yellow,1,0,0,1,0,0,dry,0,Gruner Veltliner - Federspiel,0,1
+19,elevated,moderate,0,light,1,0,straw,1,0,0,1,0,0,dry,0,Gruner Veltliner - Federspiel,1,1
+20,elevated,moderate,0,moderate,1,0,straw,1,0,0,1,0,0,dry,1,Gruner Veltliner - Federspiel,1,0
+21,elevated,moderate,0,light,0,0,straw,0,0,0,1,0,0,dry,1,Gruner Veltliner - Federspiel,0,1
+22,elevated,moderate,0,light,0,0,yellow,0,0,0,1,0,0,dry,1,Gruner Veltliner - Federspiel,0,1
+23,elevated,moderate,0,light,0,0,straw,1,0,0,1,0,0,dry,1,Gruner Veltliner - Federspiel,1,0
+24,elevated,moderate,0,light,0,0,straw,0,0,0,1,0,0,dry,1,Gruner Veltliner - Federspiel,1,1
+25,high,moderate,0,light,0,0,straw,1,0,0,1,0,0,dry,1,Gruner Veltliner - Federspiel,0,1
+26,elevated,moderate,0,light,1,0,yellow,1,0,0,1,0,0,dry,1,Gruner Veltliner - Federspiel,0,1
+27,elevated,moderate,0,light,0,0,straw,1,0,0,1,0,0,dry,1,Gruner Veltliner - Federspiel,1,1
+28,elevated,moderate,0,light,1,0,yellow,0,0,0,1,0,0,dry,1,Gruner Veltliner - Federspiel,0,0
+29,elevated,moderate,0,moderate,0,0,straw,1,0,0,1,0,0,dry,1,Gruner Veltliner - Federspiel,0,1
+0,high,moderate,0,light,0,0,yellow,0,0,0,0,0,1,dry,0,Sancerre,1,0
+1,high,moderate,0,light,0,0,yellow,0,0,0,0,0,1,dry,0,Sancerre,1,0
+2,high,moderate,0,light,0,0,straw,0,0,0,0,0,1,dry,0,Sancerre,1,0
+3,high,moderate,0,light,0,0,straw,0,0,0,0,0,1,dry,0,Sancerre,1,0
+4,high,moderate,0,light,0,0,straw,0,0,0,0,0,1,dry,0,Sancerre,1,0
+5,high,moderate,0,light,0,0,straw,0,0,0,0,0,1,dry,0,Sancerre,0,0
+6,high,moderate,0,light,0,0,yellow,0,0,0,0,0,1,dry,0,Sancerre,1,0
+7,high,moderate,0,moderate,0,0,yellow,0,0,0,0,0,1,dry,0,Sancerre,1,0
+8,high,moderate,0,moderate,0,0,straw,0,0,0,0,0,1,dry,0,Sancerre,1,0
+9,high,moderate,0,light,0,0,straw,0,0,0,0,0,1,dry,0,Sancerre,1,0
+10,high,moderate,0,light,0,0,straw,0,0,0,0,0,1,dry,0,Sancerre,0,0
+11,high,moderate,0,light,0,0,yellow,0,0,0,0,0,1,dry,0,Sancerre,1,0
+12,high,moderate,0,moderate,0,0,straw,0,0,0,0,0,1,dry,0,Sancerre,1,0
+13,high,moderate,0,moderate,0,0,straw,0,0,0,0,0,1,dry,0,Sancerre,1,0
+14,high,moderate,0,light,0,0,straw,0,0,0,0,0,1,dry,0,Sancerre,1,0
+15,high,moderate,0,light,0,0,straw,0,0,0,0,0,1,dry,0,Sancerre,1,0
+16,high,moderate,0,moderate,0,0,yellow,0,0,0,0,0,1,dry,0,Sancerre,1,0
+17,high,moderate,0,light,0,0,yellow,0,0,0,0,0,1,dry,0,Sancerre,1,0
+18,high,moderate,0,light,0,0,straw,0,0,0,0,0,1,dry,0,Sancerre,1,0
+19,high,moderate,0,light,0,0,yellow,0,0,0,0,0,1,dry,0,Sancerre,1,0
+20,high,moderate,0,light,0,0,straw,0,0,0,0,0,1,dry,0,Sancerre,1,0
+21,high,moderate,0,light,0,0,straw,0,0,0,0,0,1,dry,0,Sancerre,0,0
+22,high,moderate,0,light,0,0,straw,0,0,0,0,0,1,dry,0,Sancerre,1,0
+23,high,moderate,0,light,0,0,yellow,0,0,0,0,0,1,dry,0,Sancerre,1,0
+24,high,moderate,0,light,0,0,yellow,0,0,0,0,0,1,dry,0,Sancerre,1,0
+25,high,moderate,0,light,0,0,yellow,0,0,0,0,0,1,dry,0,Sancerre,1,0
+26,high,moderate,0,light,0,0,straw,0,0,0,0,0,1,dry,0,Sancerre,1,0
+27,high,moderate,0,light,0,0,yellow,0,0,0,0,0,1,dry,0,Sancerre,1,0
+28,high,moderate,0,moderate,0,0,straw,0,0,0,0,0,1,dry,0,Sancerre,1,0
+29,high,moderate,0,light,0,0,straw,0,0,0,0,0,1,dry,0,Sancerre,1,0
+0,elevated,moderate,0,light,1,1,yellow,0,0,0,1,0,0,slight_rs,1,Gewurztraminer (Alsace,0,0
+1,moderate,moderate,0,moderate,1,1,yellow,0,0,0,1,0,0,off-dry,0,Gewurztraminer (Alsace,0,0
+2,diminished,elevated,0,moderate,1,1,yellow,0,0,0,1,0,0,slight_rs,1,Gewurztraminer (Alsace,0,0
+3,diminished,elevated,0,elevated,1,1,yellow,0,0,0,1,0,0,off-dry,0,Gewurztraminer (Alsace,0,0
+4,moderate,moderate,0,moderate,1,1,straw,0,0,0,1,0,0,slight_rs,1,Gewurztraminer (Alsace,0,0
+5,moderate,elevated,0,moderate,1,1,straw,0,0,0,1,0,0,slight_rs,1,Gewurztraminer (Alsace,0,0
+6,diminished,elevated,0,moderate,1,1,yellow,0,0,0,1,0,0,slight_rs,1,Gewurztraminer (Alsace,0,0
+7,moderate,elevated,0,moderate,1,1,gold,0,0,0,1,0,0,off-dry,0,Gewurztraminer (Alsace,0,0
+8,moderate,elevated,0,elevated,1,1,yellow,0,0,0,1,0,0,slight_rs,0,Gewurztraminer (Alsace,0,0
+9,moderate,elevated,0,moderate,1,1,yellow,0,0,0,1,0,0,slight_rs,1,Gewurztraminer (Alsace,0,0
+10,moderate,elevated,0,moderate,1,1,yellow,0,0,0,1,0,0,slight_rs,1,Gewurztraminer (Alsace,0,0
+11,moderate,elevated,1,moderate,1,1,yellow,0,0,0,1,0,0,off-dry,1,Gewurztraminer (Alsace,0,0
+12,moderate,elevated,1,moderate,1,1,yellow,0,0,0,1,0,0,off-dry,1,Gewurztraminer (Alsace,0,0
+13,moderate,elevated,0,elevated,1,1,straw,0,0,0,1,0,0,slight_rs,1,Gewurztraminer (Alsace,0,0
+14,moderate,elevated,0,moderate,1,1,yellow,0,0,0,1,0,0,off-dry,1,Gewurztraminer (Alsace,0,0
+15,moderate,elevated,0,moderate,1,1,yellow,0,0,0,1,0,0,slight_rs,1,Gewurztraminer (Alsace,0,0
+16,moderate,elevated,0,moderate,1,1,yellow,0,0,0,1,0,0,slight_rs,1,Gewurztraminer (Alsace,0,0
+17,moderate,elevated,1,moderate,1,1,yellow,0,0,0,1,0,0,off-dry,0,Gewurztraminer (Alsace,0,0
+18,diminished,elevated,0,moderate,1,1,yellow,0,0,0,1,0,0,slight_rs,1,Gewurztraminer (Alsace,0,0
+19,moderate,elevated,0,moderate,1,1,yellow,0,0,0,1,0,0,slight_rs,0,Gewurztraminer (Alsace,0,0
+20,elevated,elevated,0,light,1,1,yellow,0,0,0,1,0,0,slight_rs,1,Gewurztraminer (Alsace,0,0
+21,moderate,elevated,0,elevated,1,1,yellow,0,0,0,1,0,0,slight_rs,0,Gewurztraminer (Alsace,0,0
+22,elevated,moderate,1,moderate,1,1,yellow,0,0,0,1,0,0,off-dry,1,Gewurztraminer (Alsace,0,0
+23,moderate,elevated,0,moderate,1,1,gold,0,0,0,1,0,0,slight_rs,1,Gewurztraminer (Alsace,0,0
+24,diminished,moderate,0,elevated,1,1,yellow,0,0,0,1,0,0,slight_rs,1,Gewurztraminer (Alsace,0,0
+25,moderate,elevated,0,moderate,1,1,yellow,0,0,0,1,0,0,slight_rs,1,Gewurztraminer (Alsace,0,0
+26,moderate,elevated,1,light,1,1,yellow,0,0,0,1,0,0,off-dry,0,Gewurztraminer (Alsace,0,0
+27,moderate,elevated,0,moderate,1,1,yellow,0,0,0,1,0,0,slight_rs,1,Gewurztraminer (Alsace,0,0
+28,diminished,elevated,0,moderate,1,1,gold,0,0,0,1,0,0,slight_rs,1,Gewurztraminer (Alsace,0,0
+29,moderate,moderate,1,elevated,1,1,yellow,0,0,0,1,0,0,slight_rs,0,Gewurztraminer (Alsace,0,0
+0,elevated,moderate,0,elevated,0,0,gold,0,1,0,0,1,0,dry,0,Burgundy - CdB Chardonnay,0,0
+1,elevated,moderate,0,moderate,0,0,gold,0,1,0,0,1,0,dry,0,Burgundy - CdB Chardonnay,0,0
+2,elevated,elevated,0,moderate,0,0,gold,0,1,0,0,1,0,dry,0,Burgundy - CdB Chardonnay,0,0
+3,elevated,moderate,0,elevated,0,0,yellow,0,1,0,0,1,0,dry,0,Burgundy - CdB Chardonnay,0,0
+4,elevated,moderate,0,moderate,0,0,gold,0,1,0,0,1,0,dry,0,Burgundy - CdB Chardonnay,0,0
+5,elevated,moderate,0,elevated,0,0,yellow,0,1,0,0,1,0,dry,0,Burgundy - CdB Chardonnay,0,0
+6,elevated,moderate,0,moderate,0,0,yellow,0,1,0,0,1,0,dry,0,Burgundy - CdB Chardonnay,0,0
+7,elevated,moderate,0,elevated,0,0,gold,0,1,0,0,1,0,dry,0,Burgundy - CdB Chardonnay,0,0
+8,elevated,moderate,0,moderate,0,0,yellow,0,1,0,0,1,0,dry,0,Burgundy - CdB Chardonnay,0,0
+9,elevated,elevated,0,elevated,0,0,gold,0,1,0,0,1,0,dry,0,Burgundy - CdB Chardonnay,0,0
+10,elevated,elevated,0,moderate,0,0,gold,0,1,0,0,1,0,dry,0,Burgundy - CdB Chardonnay,0,0
+11,elevated,moderate,0,moderate,0,0,gold,0,1,0,0,1,0,dry,0,Burgundy - CdB Chardonnay,0,0
+12,elevated,moderate,0,moderate,0,0,gold,0,1,0,0,1,0,dry,0,Burgundy - CdB Chardonnay,0,0
+13,elevated,moderate,0,moderate,0,0,gold,0,1,0,0,1,0,dry,0,Burgundy - CdB Chardonnay,0,0
+14,elevated,elevated,0,elevated,0,0,yellow,0,1,0,0,1,0,dry,0,Burgundy - CdB Chardonnay,0,0
+15,elevated,moderate,0,elevated,0,0,gold,0,1,0,0,1,0,dry,0,Burgundy - CdB Chardonnay,0,0
+16,elevated,moderate,0,moderate,0,0,yellow,0,1,0,0,1,0,dry,0,Burgundy - CdB Chardonnay,0,0
+17,elevated,moderate,0,elevated,0,0,yellow,0,1,0,0,1,0,dry,0,Burgundy - CdB Chardonnay,0,0
+18,elevated,moderate,0,moderate,0,0,yellow,0,1,0,0,1,0,dry,0,Burgundy - CdB Chardonnay,0,0
+19,elevated,elevated,0,moderate,0,0,gold,0,1,0,0,1,0,dry,0,Burgundy - CdB Chardonnay,0,0
+20,elevated,elevated,0,moderate,0,0,gold,0,1,0,0,1,0,dry,0,Burgundy - CdB Chardonnay,0,0
+21,elevated,elevated,0,moderate,0,0,yellow,0,1,0,0,1,0,dry,0,Burgundy - CdB Chardonnay,0,0
+22,elevated,moderate,0,elevated,0,0,yellow,0,1,0,0,1,0,dry,0,Burgundy - CdB Chardonnay,0,0
+23,elevated,moderate,0,moderate,0,0,yellow,0,1,0,0,1,0,dry,0,Burgundy - CdB Chardonnay,0,0
+24,elevated,elevated,0,moderate,0,0,gold,0,1,0,0,1,0,dry,0,Burgundy - CdB Chardonnay,0,0
+25,elevated,moderate,0,moderate,0,0,gold,0,1,0,0,1,0,dry,0,Burgundy - CdB Chardonnay,0,0
+26,elevated,elevated,0,moderate,0,0,gold,0,1,0,0,1,0,dry,0,Burgundy - CdB Chardonnay,0,0
+27,elevated,moderate,0,moderate,0,0,yellow,0,1,0,0,1,0,dry,0,Burgundy - CdB Chardonnay,0,0
+28,elevated,moderate,0,moderate,0,0,gold,0,1,0,0,1,0,dry,0,Burgundy - CdB Chardonnay,0,0
+29,elevated,moderate,0,moderate,0,0,gold,0,1,0,0,1,0,dry,0,Burgundy - CdB Chardonnay,0,0
+0,elevated,elevated,0,light,0,0,gold,0,1,0,0,1,0,dry,0,Sonoma Chardonnay,0,0
+1,elevated,elevated,0,moderate,0,0,yellow,0,1,0,0,0,0,dry,0,Sonoma Chardonnay,0,0
+2,moderate,elevated,0,light,0,0,yellow,0,1,0,0,1,0,dry,0,Sonoma Chardonnay,1,0
+3,moderate,elevated,0,moderate,0,0,yellow,0,1,0,0,1,0,dry,0,Sonoma Chardonnay,0,0
+4,elevated,elevated,0,elevated,0,0,gold,0,1,0,0,1,0,dry,0,Sonoma Chardonnay,0,0
+5,moderate,elevated,0,moderate,0,0,gold,0,1,0,0,1,0,dry,0,Sonoma Chardonnay,0,0
+6,moderate,elevated,0,light,0,0,yellow,0,1,0,0,1,0,dry,0,Sonoma Chardonnay,0,0
+7,moderate,elevated,0,moderate,0,0,yellow,0,1,0,0,1,0,dry,0,Sonoma Chardonnay,0,0
+8,moderate,elevated,0,moderate,0,0,yellow,0,1,0,0,1,0,dry,0,Sonoma Chardonnay,0,0
+9,elevated,elevated,0,light,0,0,yellow,0,1,0,0,0,0,dry,0,Sonoma Chardonnay,0,0
+10,elevated,elevated,0,moderate,0,0,yellow,0,1,0,0,1,0,dry,0,Sonoma Chardonnay,0,0
+11,elevated,moderate,0,light,0,0,gold,0,1,0,0,1,0,dry,0,Sonoma Chardonnay,0,0
+12,elevated,elevated,0,moderate,0,0,gold,0,1,0,0,1,0,dry,0,Sonoma Chardonnay,1,0
+13,moderate,moderate,0,moderate,0,0,yellow,0,1,0,0,1,0,dry,0,Sonoma Chardonnay,1,0
+14,moderate,elevated,0,light,0,0,yellow,0,1,0,0,0,0,dry,0,Sonoma Chardonnay,0,0
+15,elevated,elevated,0,moderate,0,0,gold,0,1,0,0,1,0,dry,0,Sonoma Chardonnay,0,0
+16,moderate,moderate,0,light,0,0,gold,0,1,0,0,1,0,dry,0,Sonoma Chardonnay,0,0
+17,elevated,moderate,0,elevated,0,0,yellow,0,1,0,0,1,0,dry,0,Sonoma Chardonnay,1,0
+18,elevated,elevated,0,moderate,0,0,gold,0,1,0,0,1,0,dry,0,Sonoma Chardonnay,1,0
+19,moderate,elevated,0,moderate,0,0,yellow,0,1,0,0,1,0,dry,0,Sonoma Chardonnay,1,0
+20,moderate,elevated,0,moderate,0,0,gold,0,1,0,0,1,0,dry,0,Sonoma Chardonnay,0,0
+21,moderate,elevated,0,light,0,0,gold,0,1,0,0,1,0,dry,0,Sonoma Chardonnay,0,0
+22,elevated,elevated,0,light,0,0,yellow,0,1,0,0,1,0,dry,0,Sonoma Chardonnay,0,0
+23,elevated,elevated,0,light,0,0,yellow,0,1,0,0,1,0,dry,0,Sonoma Chardonnay,0,0
+24,elevated,elevated,0,light,0,0,yellow,0,1,0,0,1,0,dry,0,Sonoma Chardonnay,0,0
+25,moderate,elevated,0,moderate,0,0,gold,0,1,0,0,1,0,dry,0,Sonoma Chardonnay,0,0
+26,moderate,moderate,0,light,0,0,gold,0,1,0,0,1,0,dry,0,Sonoma Chardonnay,0,0
+27,elevated,elevated,0,moderate,0,0,yellow,0,1,0,0,1,0,dry,0,Sonoma Chardonnay,0,0
+28,moderate,moderate,0,elevated,0,0,yellow,0,1,0,0,1,0,dry,0,Sonoma Chardonnay,0,0
+29,elevated,elevated,0,moderate,0,0,yellow,0,1,0,0,1,0,dry,0,Sonoma Chardonnay,0,0
+0,high,moderate,0,light,0,0,straw,0,0,0,0,1,0,dry,0,Chablis,0,0
+1,high,moderate,0,light,0,0,straw,0,0,0,0,1,0,dry,0,Chablis,0,0
+2,high,moderate,0,light,0,0,straw,0,0,0,0,1,0,dry,0,Chablis,0,0
+3,high,moderate,0,light,0,0,straw,0,0,0,0,1,0,dry,0,Chablis,0,0
+4,high,moderate,0,light,0,0,straw,0,0,0,0,1,0,dry,0,Chablis,0,0
+5,high,moderate,0,light,0,0,straw,0,0,0,0,1,0,dry,0,Chablis,0,0
+6,high,moderate,0,light,0,0,straw,0,0,0,0,1,0,dry,0,Chablis,0,0
+7,high,moderate,0,moderate,0,0,straw,0,0,0,0,1,0,dry,0,Chablis,0,0
+8,high,moderate,0,light,0,0,straw,0,0,0,0,1,0,dry,0,Chablis,0,0
+9,high,moderate,0,light,0,0,straw,0,0,0,0,1,0,dry,0,Chablis,0,0
+10,high,moderate,0,light,0,0,straw,0,0,0,0,1,0,dry,0,Chablis,0,0
+11,high,moderate,0,light,0,0,straw,0,0,0,0,1,0,dry,0,Chablis,0,0
+12,high,moderate,0,moderate,0,0,straw,0,0,0,0,1,0,dry,0,Chablis,0,0
+13,high,moderate,0,light,0,0,straw,0,0,0,0,1,0,dry,0,Chablis,0,0
+14,high,moderate,0,light,0,0,straw,0,0,0,0,1,0,dry,0,Chablis,0,0
+15,high,moderate,0,moderate,0,0,straw,0,0,0,0,1,0,dry,0,Chablis,0,0
+16,high,moderate,0,moderate,0,0,straw,0,0,0,0,1,0,dry,0,Chablis,0,0
+17,high,moderate,0,moderate,0,0,straw,0,0,0,0,1,0,dry,0,Chablis,0,0
+18,high,moderate,0,light,0,0,straw,0,0,0,0,1,0,dry,0,Chablis,0,0
+19,high,moderate,0,light,0,0,straw,0,0,0,0,1,0,dry,0,Chablis,0,0
+20,high,moderate,0,light,0,0,straw,0,0,0,0,1,0,dry,0,Chablis,0,0
+21,high,moderate,0,moderate,0,0,straw,0,0,0,0,1,0,dry,0,Chablis,0,0
+22,high,moderate,0,light,0,0,straw,0,0,0,0,1,0,dry,0,Chablis,0,0
+23,high,moderate,0,light,0,0,straw,0,0,0,0,1,0,dry,0,Chablis,0,0
+24,high,moderate,0,light,0,0,straw,0,0,0,0,1,0,dry,0,Chablis,0,0
+25,high,moderate,0,light,0,0,straw,0,0,0,0,1,0,dry,0,Chablis,0,0
+26,high,moderate,0,light,0,0,straw,0,0,0,0,1,0,dry,0,Chablis,0,0
+27,high,moderate,0,light,0,0,straw,0,0,0,0,1,0,dry,0,Chablis,0,0
+28,high,moderate,0,light,0,0,straw,0,0,0,0,1,0,dry,0,Chablis,0,0
+29,high,moderate,0,light,0,0,straw,0,0,0,0,1,0,dry,0,Chablis,0,0
+0,high,moderate,1,light,1,0,yellow,1,0,0,0,0,0,slight_rs,0,Riesling (Alsace),0,0
+1,high,moderate,0,light,1,0,straw,1,0,0,0,0,0,slight_rs,0,Riesling (Alsace),0,0
+2,high,moderate,1,light,1,0,straw,1,0,0,0,0,0,slight_rs,0,Riesling (Alsace),0,0
+3,high,moderate,0,light,1,0,straw,0,0,0,0,0,0,slight_rs,0,Riesling (Alsace),0,0
+4,high,moderate,1,light,1,0,yellow,1,0,0,0,0,0,slight_rs,0,Riesling (Alsace),0,0
+5,high,elevated,0,moderate,1,0,yellow,1,0,0,0,0,0,dry,0,Riesling (Alsace),0,0
+6,high,elevated,0,light,1,0,yellow,1,0,0,0,0,0,dry,0,Riesling (Alsace),0,0
+7,high,elevated,1,light,1,0,straw,1,0,0,0,0,0,slight_rs,0,Riesling (Alsace),0,0
+8,high,moderate,0,light,1,0,straw,1,0,0,0,0,0,slight_rs,0,Riesling (Alsace),0,0
+9,high,moderate,1,light,1,0,straw,0,0,0,0,0,0,slight_rs,0,Riesling (Alsace),0,0
+10,high,moderate,0,light,1,0,yellow,1,0,0,0,0,0,slight_rs,0,Riesling (Alsace),0,0
+11,high,moderate,0,light,1,0,straw,1,0,0,0,0,0,slight_rs,0,Riesling (Alsace),0,0
+12,high,moderate,0,moderate,1,0,yellow,1,0,0,0,0,0,slight_rs,0,Riesling (Alsace),0,0
+13,high,elevated,1,light,1,0,straw,1,0,0,0,0,0,slight_rs,0,Riesling (Alsace),0,0
+14,high,elevated,1,moderate,1,0,straw,1,0,0,0,0,0,slight_rs,0,Riesling (Alsace),0,0
+15,high,moderate,0,light,1,0,yellow,1,0,0,0,0,0,slight_rs,0,Riesling (Alsace),0,0
+16,high,moderate,1,light,1,0,straw,1,0,0,0,0,0,slight_rs,0,Riesling (Alsace),0,0
+17,high,elevated,1,moderate,1,0,straw,1,0,0,0,0,0,slight_rs,0,Riesling (Alsace),0,0
+18,high,moderate,1,moderate,1,0,yellow,1,0,0,0,0,0,dry,0,Riesling (Alsace),0,0
+19,high,elevated,1,light,1,0,straw,1,0,0,0,0,0,slight_rs,0,Riesling (Alsace),0,0
+20,high,elevated,0,light,1,0,straw,1,0,0,0,0,0,slight_rs,0,Riesling (Alsace),0,0
+21,high,moderate,1,light,1,0,straw,1,0,0,0,0,0,slight_rs,0,Riesling (Alsace),0,0
+22,high,elevated,1,light,1,0,yellow,1,0,0,0,0,0,slight_rs,0,Riesling (Alsace),0,0
+23,high,moderate,1,light,1,0,straw,0,0,0,0,0,0,slight_rs,0,Riesling (Alsace),0,0
+24,high,elevated,0,light,1,0,straw,1,0,0,0,0,0,slight_rs,0,Riesling (Alsace),0,0
+25,high,elevated,1,light,1,0,yellow,1,0,0,0,0,0,slight_rs,0,Riesling (Alsace),0,0
+26,high,moderate,1,light,1,0,straw,1,0,0,0,0,0,dry,0,Riesling (Alsace),0,0
+27,high,moderate,1,light,1,0,yellow,1,0,0,0,0,0,slight_rs,0,Riesling (Alsace),0,0
+28,high,elevated,0,moderate,1,0,straw,1,0,0,0,0,0,dry,0,Riesling (Alsace),0,0
+29,high,moderate,1,light,1,0,yellow,1,0,0,0,0,0,dry,0,Riesling (Alsace),0,0
+0,diminished,high,0,elevated,0,0,gold,0,0,0,1,0,0,dry,1,Marsanne/Roussanne blend (N. Rhone),0,0
+1,moderate,high,0,moderate,0,0,gold,0,0,0,1,0,0,dry,0,Marsanne/Roussanne blend (N. Rhone),0,0
+2,moderate,elevated,0,elevated,0,0,yellow,0,0,0,1,0,0,dry,0,Marsanne/Roussanne blend (N. Rhone),0,0
+3,moderate,moderate,0,elevated,0,0,gold,0,0,0,1,0,0,dry,1,Marsanne/Roussanne blend (N. Rhone),0,0
+4,moderate,elevated,0,elevated,0,0,yellow,0,0,0,1,0,0,dry,1,Marsanne/Roussanne blend (N. Rhone),0,0
+5,moderate,elevated,0,moderate,0,0,yellow,0,0,0,1,0,0,dry,1,Marsanne/Roussanne blend (N. Rhone),0,0
+6,moderate,high,0,moderate,0,0,yellow,0,0,0,1,0,0,dry,1,Marsanne/Roussanne blend (N. Rhone),0,0
+7,diminished,moderate,0,elevated,0,0,gold,0,0,0,1,0,0,dry,1,Marsanne/Roussanne blend (N. Rhone),0,0
+8,diminished,elevated,0,elevated,0,0,gold,0,1,0,1,0,0,dry,0,Marsanne/Roussanne blend (N. Rhone),0,0
+9,moderate,elevated,0,elevated,0,0,yellow,0,0,0,1,0,0,dry,0,Marsanne/Roussanne blend (N. Rhone),0,0
+10,moderate,high,0,elevated,0,0,yellow,0,0,0,1,0,0,dry,1,Marsanne/Roussanne blend (N. Rhone),0,0
+11,moderate,elevated,0,moderate,0,0,gold,0,0,0,1,0,0,dry,1,Marsanne/Roussanne blend (N. Rhone),0,0
+12,diminished,high,0,moderate,0,0,gold,0,1,0,1,0,0,dry,0,Marsanne/Roussanne blend (N. Rhone),0,0
+13,diminished,elevated,0,elevated,0,0,yellow,0,0,0,1,0,0,dry,1,Marsanne/Roussanne blend (N. Rhone),0,0
+14,diminished,high,0,elevated,0,0,gold,0,0,0,1,0,0,dry,1,Marsanne/Roussanne blend (N. Rhone),0,0
+15,moderate,elevated,0,moderate,0,0,yellow,0,0,0,1,0,0,dry,1,Marsanne/Roussanne blend (N. Rhone),0,0
+16,diminished,high,0,moderate,0,0,gold,0,0,0,1,0,0,dry,1,Marsanne/Roussanne blend (N. Rhone),0,0
+17,moderate,elevated,0,moderate,0,0,gold,0,1,0,1,0,0,dry,1,Marsanne/Roussanne blend (N. Rhone),0,0
+18,moderate,elevated,0,elevated,0,0,yellow,0,0,0,1,0,0,dry,1,Marsanne/Roussanne blend (N. Rhone),0,0
+19,diminished,elevated,0,elevated,0,0,yellow,0,1,0,1,0,0,dry,1,Marsanne/Roussanne blend (N. Rhone),0,0
+20,moderate,elevated,0,elevated,0,0,gold,0,0,0,1,0,0,dry,1,Marsanne/Roussanne blend (N. Rhone),0,0
+21,diminished,high,0,moderate,0,0,gold,0,1,0,1,0,0,dry,1,Marsanne/Roussanne blend (N. Rhone),0,0
+22,moderate,elevated,0,moderate,0,0,gold,0,0,0,1,0,0,dry,1,Marsanne/Roussanne blend (N. Rhone),0,0
+23,moderate,high,0,moderate,0,0,gold,0,1,0,1,0,0,dry,1,Marsanne/Roussanne blend (N. Rhone),0,0
+24,diminished,moderate,0,elevated,0,0,gold,0,0,0,1,0,0,dry,1,Marsanne/Roussanne blend (N. Rhone),0,0
+25,diminished,elevated,0,moderate,0,0,yellow,0,0,0,1,0,0,dry,0,Marsanne/Roussanne blend (N. Rhone),0,0
+26,moderate,elevated,0,elevated,0,0,yellow,0,0,0,1,0,0,dry,0,Marsanne/Roussanne blend (N. Rhone),0,0
+27,moderate,elevated,0,elevated,0,0,yellow,0,0,0,1,0,0,dry,0,Marsanne/Roussanne blend (N. Rhone),0,0
+28,diminished,elevated,0,elevated,0,0,yellow,0,0,0,1,0,0,dry,0,Marsanne/Roussanne blend (N. Rhone),0,0
+29,moderate,elevated,0,elevated,0,0,yellow,0,0,0,1,0,0,dry,1,Marsanne/Roussanne blend (N. Rhone),0,0
+0,elevated,moderate,0,moderate,1,1,straw,1,0,0,1,0,0,dry,1,Albarino,0,0
+1,elevated,elevated,0,moderate,1,0,straw,1,0,0,1,0,0,dry,0,Albarino,0,0
+2,elevated,moderate,0,moderate,1,1,yellow,1,0,0,1,0,0,dry,1,Albarino,0,0
+3,elevated,elevated,0,light,0,0,straw,1,0,0,1,0,0,dry,1,Albarino,0,0
+4,elevated,moderate,0,light,1,0,yellow,1,0,0,1,0,0,dry,1,Albarino,0,0
+5,elevated,moderate,0,light,1,1,straw,1,0,0,1,0,0,dry,1,Albarino,0,0
+6,elevated,moderate,0,light,1,1,yellow,1,0,0,1,0,0,dry,1,Albarino,0,0
+7,elevated,moderate,0,moderate,1,1,straw,1,0,0,1,0,0,dry,1,Albarino,0,0
+8,elevated,elevated,0,moderate,1,1,straw,1,0,0,1,0,0,dry,0,Albarino,0,0
+9,elevated,moderate,0,light,1,1,straw,1,0,0,1,0,0,dry,0,Albarino,0,0
+10,elevated,moderate,0,moderate,1,1,straw,1,0,0,1,0,0,dry,1,Albarino,0,0
+11,elevated,moderate,0,moderate,0,1,straw,1,0,0,1,0,0,dry,0,Albarino,0,0
+12,elevated,moderate,0,moderate,0,1,straw,1,0,0,1,0,0,dry,1,Albarino,0,0
+13,elevated,moderate,0,moderate,1,1,straw,1,0,0,1,0,0,dry,1,Albarino,0,0
+14,elevated,elevated,0,moderate,1,1,straw,1,0,0,1,0,0,dry,1,Albarino,0,0
+15,elevated,moderate,0,moderate,1,1,straw,1,0,0,1,0,0,dry,0,Albarino,0,0
+16,elevated,moderate,0,moderate,1,1,straw,1,0,0,1,0,0,dry,1,Albarino,0,0
+17,elevated,moderate,0,light,1,1,straw,1,0,0,1,0,0,dry,1,Albarino,0,0
+18,elevated,moderate,0,moderate,0,1,straw,1,0,0,1,0,0,dry,0,Albarino,0,0
+19,elevated,elevated,0,moderate,1,1,straw,1,0,0,1,0,0,dry,1,Albarino,0,0
+20,elevated,moderate,0,light,1,1,yellow,1,0,0,1,0,0,dry,1,Albarino,0,0
+21,elevated,moderate,0,light,1,1,straw,1,0,0,1,0,0,dry,1,Albarino,0,0
+22,elevated,moderate,0,light,1,0,straw,1,0,0,1,0,0,dry,1,Albarino,0,0
+23,elevated,moderate,0,moderate,1,1,straw,1,0,0,1,0,0,dry,1,Albarino,0,0
+24,elevated,elevated,0,moderate,1,0,straw,1,0,0,1,0,0,dry,1,Albarino,0,0
+25,elevated,moderate,0,moderate,1,1,straw,1,0,0,1,0,0,dry,1,Albarino,0,0
+26,elevated,elevated,0,moderate,0,1,straw,1,0,0,1,0,0,dry,1,Albarino,0,0
+27,elevated,elevated,0,moderate,0,1,yellow,1,0,0,1,0,0,dry,1,Albarino,0,0
+28,elevated,moderate,0,moderate,1,1,yellow,1,0,0,1,0,0,dry,1,Albarino,0,0
+29,elevated,elevated,0,moderate,1,0,straw,1,0,0,1,0,0,dry,1,Albarino,0,0
+0,high,elevated,1,elevated,0,0,yellow,0,0,1,0,0,0,dry,0,Savennieres,0,0
+1,high,high,0,elevated,0,0,yellow,0,0,0,0,0,0,dry,0,Savennieres,0,0
+2,high,elevated,0,elevated,0,0,yellow,0,0,1,0,0,0,dry,0,Savennieres,0,0
+3,high,high,1,moderate,0,0,yellow,0,0,1,0,0,0,dry,0,Savennieres,0,0
+4,high,elevated,1,elevated,0,0,gold,0,0,1,0,0,0,dry,0,Savennieres,0,0
+5,high,high,1,elevated,0,0,yellow,0,0,1,0,0,0,dry,0,Savennieres,0,0
+6,high,elevated,0,elevated,0,0,yellow,0,0,1,0,1,0,dry,0,Savennieres,0,0
+7,high,high,0,elevated,0,0,yellow,0,0,1,0,0,0,dry,0,Savennieres,0,0
+8,high,high,0,moderate,0,0,yellow,0,0,1,0,0,0,dry,0,Savennieres,0,0
+9,high,elevated,0,elevated,0,0,gold,0,0,1,0,0,0,dry,0,Savennieres,0,0
+10,high,high,1,elevated,0,0,gold,0,0,1,0,1,0,dry,0,Savennieres,0,0
+11,high,elevated,1,elevated,0,0,yellow,0,0,1,0,1,0,dry,0,Savennieres,0,0
+12,high,high,1,moderate,0,0,yellow,0,0,1,0,0,0,dry,0,Savennieres,0,0
+13,high,elevated,0,moderate,0,0,gold,0,0,1,0,0,0,dry,0,Savennieres,0,0
+14,high,high,1,elevated,0,0,yellow,0,0,1,0,0,0,dry,0,Savennieres,0,0
+15,high,high,1,moderate,0,0,yellow,0,0,1,0,0,0,dry,0,Savennieres,0,0
+16,high,high,0,moderate,0,0,yellow,0,0,1,0,1,0,dry,0,Savennieres,0,0
+17,high,high,0,elevated,0,0,yellow,0,0,1,0,1,0,dry,0,Savennieres,0,0
+18,high,high,1,moderate,0,0,gold,0,0,1,0,0,0,dry,0,Savennieres,0,0
+19,high,elevated,0,moderate,0,0,gold,0,0,1,0,0,0,dry,0,Savennieres,0,0
+20,high,elevated,1,elevated,0,0,yellow,0,0,1,0,0,0,dry,0,Savennieres,0,0
+21,high,elevated,0,elevated,0,0,yellow,0,0,1,0,0,0,dry,0,Savennieres,0,0
+22,high,elevated,1,moderate,0,0,gold,0,0,0,0,1,0,dry,0,Savennieres,0,0
+23,high,elevated,0,elevated,0,0,yellow,0,0,1,0,0,0,dry,0,Savennieres,0,0
+24,high,elevated,1,elevated,0,0,yellow,0,0,1,0,0,0,dry,0,Savennieres,0,0
+25,high,high,0,elevated,0,0,gold,0,0,1,0,0,0,dry,0,Savennieres,0,0
+26,high,high,1,elevated,0,0,gold,0,0,1,0,0,0,dry,0,Savennieres,0,0
+27,high,elevated,0,elevated,0,0,yellow,0,0,1,0,0,0,dry,0,Savennieres,0,0
+28,high,high,0,elevated,0,0,yellow,0,0,0,0,0,0,dry,0,Savennieres,0,0
+29,high,elevated,1,elevated,0,0,yellow,0,0,1,0,0,0,dry,0,Savennieres,0,0
+0,elevated,moderate,0,light,0,0,straw,0,0,0,1,0,0,dry,0,Pinot Grigio (Alto Adige),0,0
+1,elevated,moderate,0,light,0,0,straw,0,0,0,1,0,0,dry,0,Pinot Grigio (Alto Adige),0,0
+2,elevated,moderate,0,light,1,0,straw,0,0,0,1,0,0,dry,0,Pinot Grigio (Alto Adige),0,0
+3,elevated,moderate,0,light,0,0,straw,0,0,0,1,0,0,dry,0,Pinot Grigio (Alto Adige),0,0
+4,elevated,moderate,0,light,0,0,straw,0,0,0,1,0,0,dry,0,Pinot Grigio (Alto Adige),0,0
+5,elevated,moderate,0,light,0,0,straw,0,0,0,1,0,0,dry,0,Pinot Grigio (Alto Adige),0,0
+6,elevated,moderate,0,light,1,0,straw,0,0,0,1,0,0,dry,0,Pinot Grigio (Alto Adige),0,0
+7,elevated,moderate,0,light,0,0,straw,0,0,0,1,0,0,dry,0,Pinot Grigio (Alto Adige),0,0
+8,elevated,moderate,0,light,1,0,straw,0,0,0,1,0,0,dry,0,Pinot Grigio (Alto Adige),0,0
+9,elevated,moderate,0,light,0,0,straw,0,0,0,1,0,0,dry,1,Pinot Grigio (Alto Adige),0,0
+10,elevated,moderate,0,light,0,0,straw,0,0,0,1,0,0,dry,0,Pinot Grigio (Alto Adige),0,0
+11,elevated,moderate,0,light,1,0,straw,0,0,0,1,0,0,dry,0,Pinot Grigio (Alto Adige),0,0
+12,elevated,moderate,0,light,1,0,straw,0,0,0,1,0,0,dry,0,Pinot Grigio (Alto Adige),0,0
+13,elevated,moderate,0,light,1,0,straw,0,0,0,1,0,0,dry,0,Pinot Grigio (Alto Adige),0,0
+14,elevated,moderate,0,light,0,0,straw,0,0,0,1,0,0,dry,0,Pinot Grigio (Alto Adige),0,0
+15,elevated,moderate,0,light,0,0,straw,0,0,0,1,0,0,dry,0,Pinot Grigio (Alto Adige),0,0
+16,elevated,moderate,0,light,0,0,straw,0,0,0,1,0,0,dry,0,Pinot Grigio (Alto Adige),0,0
+17,elevated,moderate,0,light,1,0,straw,0,0,0,1,0,0,dry,0,Pinot Grigio (Alto Adige),0,0
+18,elevated,moderate,0,light,0,0,straw,0,0,0,1,0,0,dry,0,Pinot Grigio (Alto Adige),0,0
+19,elevated,moderate,0,light,0,0,straw,0,0,0,1,0,0,dry,0,Pinot Grigio (Alto Adige),0,0
+20,elevated,moderate,0,light,0,0,straw,0,0,0,1,0,0,dry,0,Pinot Grigio (Alto Adige),0,0
+21,elevated,moderate,0,light,0,0,straw,0,0,0,1,0,0,dry,0,Pinot Grigio (Alto Adige),0,0
+22,elevated,moderate,0,light,0,0,straw,0,0,0,1,0,0,dry,0,Pinot Grigio (Alto Adige),0,0
+23,elevated,moderate,0,light,0,0,straw,0,0,0,1,0,0,dry,0,Pinot Grigio (Alto Adige),0,0
+24,elevated,moderate,0,light,0,0,straw,0,0,0,1,0,0,dry,0,Pinot Grigio (Alto Adige),0,0
+25,elevated,moderate,0,light,0,0,straw,0,0,0,1,0,0,dry,0,Pinot Grigio (Alto Adige),0,0
+26,elevated,moderate,0,light,1,0,straw,0,0,0,1,0,0,dry,0,Pinot Grigio (Alto Adige),0,0
+27,elevated,moderate,0,light,0,0,straw,0,0,0,1,0,0,dry,1,Pinot Grigio (Alto Adige),0,0
+28,elevated,moderate,0,light,1,0,straw,0,0,0,1,0,0,dry,1,Pinot Grigio (Alto Adige),0,0
+29,elevated,moderate,0,light,0,0,straw,0,0,0,1,0,0,dry,0,Pinot Grigio (Alto Adige),0,0
+0,elevated,moderate,0,moderate,0,0,straw,0,0,0,0,0,1,dry,0,NZ Sauvignon Blanc,1,0
+1,elevated,elevated,0,light,0,0,straw,0,0,0,0,0,1,dry,0,NZ Sauvignon Blanc,1,0
+2,elevated,elevated,0,light,0,0,straw,0,0,0,0,0,1,dry,0,NZ Sauvignon Blanc,1,0
+3,elevated,moderate,0,light,0,0,straw,0,0,0,0,0,1,dry,0,NZ Sauvignon Blanc,1,0
+4,high,moderate,0,light,0,0,straw,0,0,0,0,0,1,dry,0,NZ Sauvignon Blanc,1,0
+5,elevated,elevated,0,moderate,0,0,straw,0,0,0,0,0,1,dry,0,NZ Sauvignon Blanc,1,0
+6,elevated,moderate,0,light,0,0,straw,0,0,0,0,0,1,dry,0,NZ Sauvignon Blanc,1,0
+7,elevated,moderate,0,moderate,0,0,straw,0,0,0,0,0,1,dry,0,NZ Sauvignon Blanc,1,0
+8,elevated,moderate,0,moderate,0,0,straw,0,0,0,0,0,1,dry,0,NZ Sauvignon Blanc,1,0
+9,elevated,moderate,0,light,0,0,straw,0,0,0,0,0,1,dry,0,NZ Sauvignon Blanc,1,0
+10,high,moderate,0,light,0,0,straw,0,0,0,0,0,1,dry,0,NZ Sauvignon Blanc,1,0
+11,elevated,elevated,0,moderate,0,0,straw,0,0,0,0,0,1,dry,0,NZ Sauvignon Blanc,1,0
+12,high,moderate,0,moderate,0,0,straw,0,0,0,0,0,1,dry,0,NZ Sauvignon Blanc,1,0
+13,elevated,moderate,0,light,0,0,straw,0,0,0,0,0,1,dry,0,NZ Sauvignon Blanc,1,0
+14,high,moderate,0,light,0,0,straw,0,0,0,0,0,1,dry,0,NZ Sauvignon Blanc,1,0
+15,high,elevated,0,light,0,0,straw,0,0,0,0,0,1,dry,0,NZ Sauvignon Blanc,1,0
+16,high,moderate,0,light,0,0,straw,0,0,0,0,0,1,dry,0,NZ Sauvignon Blanc,1,0
+17,high,moderate,0,moderate,0,0,straw,0,0,0,0,0,1,dry,0,NZ Sauvignon Blanc,1,0
+18,elevated,moderate,0,light,0,0,straw,0,0,0,0,0,1,dry,0,NZ Sauvignon Blanc,1,0
+19,high,moderate,0,light,0,0,straw,0,0,0,0,0,1,dry,0,NZ Sauvignon Blanc,1,0
+20,elevated,elevated,0,moderate,0,0,straw,0,0,0,0,0,1,dry,0,NZ Sauvignon Blanc,1,0
+21,high,moderate,0,moderate,0,0,straw,0,0,0,0,0,1,dry,0,NZ Sauvignon Blanc,1,0
+22,elevated,moderate,0,moderate,0,0,straw,0,0,0,0,0,1,dry,0,NZ Sauvignon Blanc,1,0
+23,elevated,elevated,0,light,0,0,straw,0,0,0,0,0,1,dry,0,NZ Sauvignon Blanc,1,0
+24,elevated,moderate,0,light,0,0,straw,0,0,0,0,0,1,dry,0,NZ Sauvignon Blanc,1,0
+25,elevated,moderate,0,moderate,0,0,straw,0,0,0,0,0,1,dry,0,NZ Sauvignon Blanc,1,0
+26,elevated,moderate,0,light,0,0,straw,0,0,0,0,0,1,dry,0,NZ Sauvignon Blanc,1,0
+27,elevated,elevated,0,light,0,0,straw,0,0,0,0,0,1,dry,0,NZ Sauvignon Blanc,1,0
+28,elevated,moderate,0,moderate,0,0,straw,0,0,0,0,0,1,dry,0,NZ Sauvignon Blanc,1,0
+29,elevated,elevated,0,light,0,0,straw,0,0,0,0,0,1,dry,0,NZ Sauvignon Blanc,1,0
+0,high,moderate,0,light,1,0,straw,0,0,0,0,0,0,dry,0,Riesling (Australia),0,0
+1,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,dry,0,Riesling (Australia),0,0
+2,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,dry,0,Riesling (Australia),0,0
+3,high,moderate,0,light,1,0,straw,1,0,0,0,0,0,dry,0,Riesling (Australia),0,0
+4,high,moderate,0,light,1,0,straw,1,0,0,0,0,0,dry,0,Riesling (Australia),0,0
+5,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,dry,0,Riesling (Australia),0,0
+6,high,moderate,0,light,1,0,straw,1,0,0,0,0,0,dry,0,Riesling (Australia),0,0
+7,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,dry,0,Riesling (Australia),0,0
+8,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,dry,0,Riesling (Australia),0,0
+9,high,moderate,0,light,1,0,straw,1,0,0,0,0,0,dry,0,Riesling (Australia),0,0
+10,high,moderate,0,light,1,0,straw,1,0,0,0,0,0,dry,0,Riesling (Australia),0,0
+11,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,dry,0,Riesling (Australia),0,0
+12,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,dry,0,Riesling (Australia),0,0
+13,high,moderate,0,light,1,0,straw,1,0,0,0,0,0,dry,0,Riesling (Australia),0,0
+14,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,dry,0,Riesling (Australia),0,0
+15,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,dry,0,Riesling (Australia),0,0
+16,high,moderate,0,light,1,0,straw,1,0,0,0,0,0,dry,0,Riesling (Australia),0,0
+17,high,moderate,0,light,1,0,straw,1,0,0,0,0,0,dry,0,Riesling (Australia),0,0
+18,high,moderate,0,light,1,0,straw,1,0,0,0,0,0,dry,0,Riesling (Australia),0,0
+19,high,moderate,0,light,1,0,straw,1,0,0,0,0,0,dry,0,Riesling (Australia),0,0
+20,high,diminished,0,light,1,0,straw,0,0,0,0,0,0,dry,0,Riesling (Australia),0,0
+21,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,dry,0,Riesling (Australia),0,0
+22,high,moderate,0,light,1,0,straw,1,0,0,0,0,0,dry,0,Riesling (Australia),0,0
+23,high,moderate,0,light,1,0,straw,1,0,0,0,0,0,dry,0,Riesling (Australia),0,0
+24,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,dry,0,Riesling (Australia),0,0
+25,high,moderate,0,light,1,0,straw,0,0,0,0,0,0,dry,0,Riesling (Australia),0,0
+26,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,dry,0,Riesling (Australia),0,0
+27,high,moderate,0,light,1,0,straw,1,0,0,0,0,0,dry,0,Riesling (Australia),0,0
+28,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,dry,0,Riesling (Australia),0,0
+29,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,dry,0,Riesling (Australia),0,0
+0,moderate,elevated,0,moderate,1,1,yellow,0,0,0,1,0,0,dry,1,Condrieu,0,0
+1,diminished,elevated,0,moderate,1,1,gold,0,1,0,1,0,0,dry,1,Condrieu,0,0
+2,moderate,high,0,moderate,1,1,yellow,0,1,0,1,0,0,dry,0,Condrieu,0,0
+3,diminished,elevated,0,moderate,1,1,yellow,0,0,0,1,0,0,dry,1,Condrieu,0,0
+4,diminished,high,0,elevated,0,1,yellow,0,1,0,1,0,0,dry,0,Condrieu,0,0
+5,moderate,elevated,0,moderate,1,1,gold,0,0,0,1,0,0,dry,0,Condrieu,0,0
+6,diminished,high,0,elevated,1,1,yellow,0,1,0,1,0,0,dry,1,Condrieu,0,0
+7,diminished,high,0,moderate,1,1,yellow,0,1,0,1,0,0,dry,1,Condrieu,0,0
+8,moderate,elevated,0,moderate,1,1,yellow,0,0,0,1,0,0,dry,1,Condrieu,0,0
+9,moderate,elevated,0,elevated,1,1,yellow,0,0,0,1,0,0,dry,1,Condrieu,0,0
+10,moderate,elevated,0,elevated,1,1,yellow,0,1,0,1,0,0,dry,1,Condrieu,0,0
+11,moderate,high,0,moderate,1,1,yellow,0,0,0,1,0,0,dry,1,Condrieu,0,0
+12,moderate,elevated,0,moderate,1,1,yellow,0,0,0,1,0,0,dry,1,Condrieu,0,0
+13,diminished,high,0,moderate,1,1,gold,0,1,0,1,0,0,dry,1,Condrieu,0,0
+14,diminished,elevated,0,moderate,1,1,gold,0,0,0,1,0,0,dry,1,Condrieu,0,0
+15,diminished,high,0,moderate,1,1,yellow,0,0,0,1,0,0,dry,1,Condrieu,0,0
+16,diminished,high,0,moderate,1,1,gold,0,0,0,1,0,0,dry,1,Condrieu,0,0
+17,diminished,high,0,elevated,1,1,yellow,0,0,0,1,0,0,dry,1,Condrieu,0,0
+18,diminished,high,0,moderate,1,1,yellow,0,0,0,1,0,0,dry,1,Condrieu,0,0
+19,moderate,elevated,0,moderate,0,1,yellow,0,0,0,1,0,0,dry,1,Condrieu,0,0
+20,diminished,elevated,0,moderate,1,1,yellow,0,0,0,1,0,0,dry,1,Condrieu,0,0
+21,moderate,elevated,0,moderate,0,1,gold,0,0,0,1,0,0,dry,1,Condrieu,0,0
+22,diminished,high,0,moderate,1,1,yellow,0,0,0,1,0,0,dry,1,Condrieu,0,0
+23,moderate,high,0,moderate,1,1,yellow,0,0,0,1,0,0,dry,1,Condrieu,0,0
+24,moderate,elevated,0,elevated,1,1,yellow,0,1,0,1,0,0,dry,1,Condrieu,0,0
+25,moderate,high,0,moderate,1,1,yellow,0,1,0,1,0,0,dry,1,Condrieu,0,0
+26,moderate,high,0,elevated,1,1,yellow,0,0,0,1,0,0,dry,1,Condrieu,0,0
+27,diminished,high,0,elevated,1,1,yellow,0,0,0,1,0,0,dry,1,Condrieu,0,0
+28,diminished,elevated,0,elevated,1,1,yellow,0,0,0,1,0,0,dry,1,Condrieu,0,0
+29,moderate,elevated,0,moderate,1,1,yellow,0,0,0,1,0,0,dry,1,Condrieu,0,0
+0,diminished,high,0,elevated,1,1,yellow,0,0,0,1,0,0,dry,0,CA Viognier,0,0
+1,moderate,high,0,elevated,0,1,yellow,0,1,0,1,0,0,dry,1,CA Viognier,0,0
+2,diminished,high,0,moderate,1,1,yellow,0,1,0,1,0,0,dry,1,CA Viognier,0,0
+3,moderate,high,0,moderate,1,1,gold,0,1,0,1,0,0,dry,1,CA Viognier,0,0
+4,moderate,high,0,elevated,1,1,yellow,0,1,0,1,0,0,dry,1,CA Viognier,0,0
+5,moderate,high,0,moderate,1,1,yellow,0,1,0,1,0,0,dry,1,CA Viognier,0,0
+6,moderate,high,0,moderate,1,1,yellow,0,0,0,1,0,0,dry,1,CA Viognier,0,0
+7,diminished,high,0,moderate,1,1,gold,0,1,0,1,0,0,dry,1,CA Viognier,0,0
+8,moderate,high,0,moderate,1,1,gold,0,1,0,1,0,0,dry,0,CA Viognier,0,0
+9,diminished,high,0,moderate,0,1,yellow,0,0,0,1,0,0,dry,1,CA Viognier,0,0
+10,moderate,high,0,moderate,1,1,yellow,0,1,0,1,0,0,dry,1,CA Viognier,0,0
+11,moderate,high,0,moderate,1,1,yellow,0,1,0,1,0,0,dry,1,CA Viognier,0,0
+12,moderate,high,0,elevated,1,1,yellow,0,0,0,1,0,0,dry,1,CA Viognier,0,0
+13,diminished,high,0,elevated,1,1,gold,0,1,0,1,0,0,dry,1,CA Viognier,0,0
+14,diminished,high,0,elevated,1,1,yellow,0,1,0,1,0,0,dry,1,CA Viognier,0,0
+15,diminished,high,0,moderate,1,1,yellow,0,0,0,1,0,0,dry,1,CA Viognier,0,0
+16,moderate,high,0,moderate,1,1,gold,0,0,0,1,0,0,dry,1,CA Viognier,0,0
+17,diminished,high,0,elevated,1,1,yellow,0,0,0,1,0,0,dry,1,CA Viognier,0,0
+18,moderate,high,0,moderate,1,1,yellow,0,1,0,1,0,0,dry,1,CA Viognier,0,0
+19,diminished,high,0,moderate,1,1,yellow,0,0,0,1,0,0,dry,1,CA Viognier,0,0
+20,diminished,high,0,moderate,1,1,yellow,0,0,0,1,0,0,dry,1,CA Viognier,0,0
+21,diminished,high,0,elevated,1,1,yellow,0,1,0,1,0,0,dry,1,CA Viognier,0,0
+22,moderate,high,0,moderate,1,1,yellow,0,0,0,1,0,0,dry,1,CA Viognier,0,0
+23,moderate,high,0,moderate,1,1,yellow,0,0,0,1,0,0,dry,1,CA Viognier,0,0
+24,diminished,high,0,elevated,1,1,yellow,0,1,0,1,0,0,dry,1,CA Viognier,0,0
+25,moderate,high,0,moderate,1,1,yellow,0,0,0,1,0,0,dry,1,CA Viognier,0,0
+26,diminished,high,0,moderate,0,1,gold,0,1,0,1,0,0,dry,1,CA Viognier,0,0
+27,moderate,high,0,moderate,1,1,yellow,0,1,0,1,0,0,dry,1,CA Viognier,0,0
+28,diminished,high,0,moderate,1,1,yellow,0,1,0,1,0,0,dry,0,CA Viognier,0,0
+29,diminished,high,0,moderate,1,1,yellow,0,1,0,1,0,0,dry,1,CA Viognier,0,0
+0,elevated,moderate,0,light,1,1,yellow,0,0,0,0,0,0,dry,0,Torrontes (Argentina),0,0
+1,elevated,moderate,0,light,1,1,yellow,0,0,0,0,0,0,dry,1,Torrontes (Argentina),0,0
+2,elevated,moderate,0,light,1,1,straw,0,0,0,0,0,0,dry,0,Torrontes (Argentina),0,0
+3,elevated,moderate,0,moderate,1,1,straw,0,0,0,0,0,0,dry,1,Torrontes (Argentina),0,0
+4,elevated,moderate,0,moderate,1,1,straw,0,0,0,0,0,0,dry,0,Torrontes (Argentina),0,0
+5,moderate,moderate,0,light,1,1,straw,0,0,0,0,0,0,dry,0,Torrontes (Argentina),0,0
+6,moderate,elevated,0,light,1,1,yellow,0,0,0,0,0,0,dry,1,Torrontes (Argentina),0,0
+7,moderate,moderate,0,light,1,1,yellow,0,0,0,0,0,0,dry,1,Torrontes (Argentina),0,0
+8,elevated,moderate,0,light,1,1,straw,0,0,0,0,0,0,dry,1,Torrontes (Argentina),0,0
+9,elevated,moderate,0,moderate,1,1,yellow,0,0,0,0,0,0,dry,1,Torrontes (Argentina),0,0
+10,moderate,moderate,0,light,1,1,straw,0,0,0,0,0,0,dry,1,Torrontes (Argentina),0,0
+11,elevated,moderate,0,moderate,1,1,straw,0,0,0,0,0,0,dry,0,Torrontes (Argentina),0,0
+12,moderate,moderate,0,moderate,1,1,yellow,0,0,0,0,0,0,dry,1,Torrontes (Argentina),0,0
+13,moderate,elevated,0,light,1,1,yellow,0,0,0,0,0,0,dry,0,Torrontes (Argentina),0,0
+14,elevated,elevated,0,light,1,1,straw,0,0,0,0,0,0,dry,1,Torrontes (Argentina),0,0
+15,elevated,moderate,0,light,1,1,straw,0,0,0,0,0,0,dry,0,Torrontes (Argentina),0,0
+16,elevated,moderate,0,light,1,1,yellow,0,0,0,0,0,0,dry,1,Torrontes (Argentina),0,0
+17,moderate,moderate,0,light,1,1,straw,0,0,0,0,0,0,dry,1,Torrontes (Argentina),0,0
+18,moderate,moderate,0,light,1,1,straw,0,0,0,0,0,0,dry,0,Torrontes (Argentina),0,0
+19,elevated,moderate,0,light,1,1,straw,0,0,0,0,0,0,dry,1,Torrontes (Argentina),0,0
+20,elevated,moderate,0,light,1,1,straw,0,0,0,0,0,0,dry,0,Torrontes (Argentina),0,0
+21,elevated,moderate,0,light,1,1,straw,0,0,0,0,0,0,dry,1,Torrontes (Argentina),0,0
+22,elevated,moderate,0,light,1,1,straw,0,0,0,0,0,0,dry,0,Torrontes (Argentina),0,0
+23,elevated,moderate,0,light,1,1,straw,0,0,0,0,0,0,dry,0,Torrontes (Argentina),0,0
+24,elevated,moderate,0,light,1,1,straw,0,0,0,0,0,0,dry,0,Torrontes (Argentina),0,0
+25,moderate,moderate,0,moderate,1,1,yellow,0,0,0,0,0,0,dry,1,Torrontes (Argentina),0,0
+26,elevated,moderate,0,light,1,1,yellow,0,0,0,0,0,0,dry,1,Torrontes (Argentina),0,0
+27,elevated,moderate,0,light,1,1,yellow,0,0,0,0,0,0,dry,0,Torrontes (Argentina),0,0
+28,elevated,moderate,0,light,1,1,straw,0,0,0,0,0,0,dry,0,Torrontes (Argentina),0,0
+29,elevated,moderate,0,light,1,1,yellow,0,0,0,0,0,0,dry,0,Torrontes (Argentina),0,0
+0,elevated,moderate,1,elevated,1,1,yellow,0,0,0,0,0,0,slight_rs,0,Muscat (Alsace),0,0
+1,elevated,moderate,0,moderate,1,1,straw,0,0,0,0,0,0,dry,0,Muscat (Alsace),0,0
+2,elevated,moderate,0,moderate,1,1,straw,0,0,0,0,0,0,slight_rs,0,Muscat (Alsace),0,0
+3,elevated,moderate,0,moderate,1,1,straw,0,0,0,0,0,0,slight_rs,1,Muscat (Alsace),0,0
+4,elevated,moderate,0,elevated,1,1,straw,0,0,0,0,0,0,dry,0,Muscat (Alsace),0,0
+5,elevated,moderate,0,moderate,1,1,yellow,0,0,0,0,0,0,dry,1,Muscat (Alsace),0,0
+6,elevated,moderate,0,elevated,1,1,yellow,0,0,0,0,0,0,dry,1,Muscat (Alsace),0,0
+7,elevated,moderate,0,light,1,1,yellow,0,0,0,0,0,0,dry,1,Muscat (Alsace),0,0
+8,elevated,moderate,0,moderate,1,1,yellow,0,0,0,0,0,0,dry,0,Muscat (Alsace),0,0
+9,elevated,moderate,0,elevated,1,1,yellow,0,0,0,0,0,0,dry,1,Muscat (Alsace),0,0
+10,elevated,moderate,1,moderate,1,1,yellow,0,0,0,0,0,0,dry,1,Muscat (Alsace),0,0
+11,elevated,moderate,0,light,1,1,straw,0,0,0,0,0,0,dry,1,Muscat (Alsace),0,0
+12,elevated,moderate,0,moderate,1,1,straw,0,0,0,0,0,0,dry,1,Muscat (Alsace),0,0
+13,elevated,moderate,0,light,1,1,yellow,0,0,0,0,0,0,slight_rs,0,Muscat (Alsace),0,0
+14,elevated,moderate,0,elevated,1,1,straw,0,0,0,0,0,0,dry,1,Muscat (Alsace),0,0
+15,elevated,moderate,0,moderate,1,1,straw,0,0,0,0,0,0,slight_rs,1,Muscat (Alsace),0,0
+16,elevated,moderate,0,light,1,1,yellow,0,0,0,0,0,0,dry,1,Muscat (Alsace),0,0
+17,elevated,moderate,1,moderate,1,1,yellow,0,0,0,0,0,0,dry,0,Muscat (Alsace),0,0
+18,elevated,moderate,0,moderate,1,1,yellow,0,0,0,0,0,0,dry,1,Muscat (Alsace),0,0
+19,elevated,moderate,0,moderate,1,1,yellow,0,0,0,0,0,0,dry,1,Muscat (Alsace),0,0
+20,elevated,moderate,0,light,1,1,gold,0,0,0,0,0,0,dry,1,Muscat (Alsace),0,0
+21,elevated,moderate,0,moderate,1,1,yellow,0,0,0,0,0,0,dry,0,Muscat (Alsace),0,0
+22,elevated,moderate,0,moderate,1,1,straw,0,0,0,0,0,0,slight_rs,0,Muscat (Alsace),0,0
+23,elevated,moderate,0,elevated,1,1,yellow,0,0,0,0,0,0,dry,0,Muscat (Alsace),0,0
+24,elevated,moderate,0,moderate,1,1,straw,0,0,0,0,0,0,slight_rs,1,Muscat (Alsace),0,0
+25,elevated,moderate,0,moderate,1,1,straw,0,0,0,0,0,0,slight_rs,0,Muscat (Alsace),0,0
+26,elevated,moderate,0,moderate,1,1,gold,0,0,0,0,0,0,dry,1,Muscat (Alsace),0,0
+27,elevated,moderate,0,moderate,1,1,gold,0,0,0,0,0,0,dry,1,Muscat (Alsace),0,0
+28,elevated,moderate,0,light,1,1,yellow,0,0,0,0,0,0,slight_rs,1,Muscat (Alsace),0,0
+29,elevated,moderate,0,moderate,1,1,straw,0,0,0,0,0,0,dry,0,Muscat (Alsace),0,0
+0,high,moderate,0,light,0,0,straw,0,0,0,0,0,0,dry,0,Muscadet,0,0
+1,high,moderate,0,light,0,0,straw,0,0,0,0,0,0,dry,0,Muscadet,0,0
+2,high,moderate,0,light,0,0,straw,0,0,0,0,1,0,dry,0,Muscadet,0,0
+3,high,moderate,0,light,0,0,straw,0,0,0,0,1,0,dry,0,Muscadet,0,0
+4,high,moderate,0,light,0,0,straw,0,0,0,0,1,0,dry,0,Muscadet,0,0
+5,high,moderate,0,light,0,0,straw,0,0,0,0,1,0,dry,0,Muscadet,0,0
+6,high,moderate,0,light,0,0,straw,0,0,0,0,0,0,dry,0,Muscadet,0,0
+7,high,moderate,0,light,0,0,straw,0,0,0,0,0,0,dry,0,Muscadet,0,0
+8,high,moderate,0,light,0,0,straw,0,0,0,0,0,0,dry,0,Muscadet,0,0
+9,high,moderate,0,light,0,0,straw,0,0,0,0,0,0,dry,0,Muscadet,0,0
+10,high,moderate,0,light,0,0,straw,0,0,0,0,0,0,dry,0,Muscadet,0,0
+11,high,moderate,0,light,0,0,straw,0,0,0,0,0,0,dry,0,Muscadet,0,0
+12,high,moderate,0,light,0,0,straw,0,0,0,0,1,0,dry,0,Muscadet,0,0
+13,high,moderate,0,light,0,0,straw,0,0,0,0,1,0,dry,0,Muscadet,0,0
+14,high,moderate,0,light,0,0,straw,0,0,0,0,0,0,dry,0,Muscadet,0,0
+15,high,moderate,0,light,0,0,straw,0,0,0,0,0,0,dry,0,Muscadet,0,0
+16,high,moderate,0,light,0,0,straw,0,0,0,0,0,0,dry,0,Muscadet,0,0
+17,high,moderate,0,light,0,0,straw,0,0,0,0,1,0,dry,0,Muscadet,0,0
+18,high,moderate,0,light,0,0,straw,0,0,0,0,0,0,dry,0,Muscadet,0,0
+19,high,moderate,0,light,0,0,straw,0,0,0,0,0,0,dry,0,Muscadet,0,0
+20,high,moderate,0,light,0,0,straw,0,0,0,0,0,0,dry,0,Muscadet,0,0
+21,high,moderate,0,light,0,0,straw,0,0,0,0,0,0,dry,0,Muscadet,0,0
+22,high,moderate,0,light,0,0,straw,0,0,0,0,0,0,dry,0,Muscadet,0,0
+23,high,moderate,0,light,0,0,straw,0,0,0,0,1,0,dry,0,Muscadet,0,0
+24,high,moderate,0,light,0,0,straw,0,0,0,0,1,0,dry,0,Muscadet,0,0
+25,high,moderate,0,light,0,0,straw,0,0,0,0,0,0,dry,0,Muscadet,0,0
+26,high,moderate,0,light,0,0,straw,0,0,0,0,0,0,dry,0,Muscadet,0,0
+27,high,moderate,0,light,0,0,straw,0,0,0,0,0,0,dry,0,Muscadet,0,0
+28,high,moderate,0,light,0,0,straw,0,0,0,0,0,0,dry,0,Muscadet,0,0
+29,high,moderate,0,light,0,0,straw,0,0,0,0,0,0,dry,0,Muscadet,0,0
+0,moderate,moderate,0,light,0,0,yellow,0,0,0,1,0,0,off-dry,1,Alsace Pinot Gris,1,0
+1,elevated,moderate,0,moderate,0,0,gold,0,0,0,1,1,0,slight_rs,1,Alsace Pinot Gris,0,0
+2,elevated,moderate,1,moderate,0,0,gold,0,0,0,1,0,0,slight_rs,1,Alsace Pinot Gris,1,0
+3,moderate,moderate,0,light,0,0,yellow,0,0,0,1,0,0,slight_rs,1,Alsace Pinot Gris,0,0
+4,elevated,elevated,0,light,0,0,gold,0,0,0,1,0,0,slight_rs,0,Alsace Pinot Gris,0,0
+5,moderate,moderate,0,light,1,0,gold,0,0,0,1,0,0,slight_rs,0,Alsace Pinot Gris,1,0
+6,moderate,moderate,1,light,1,0,yellow,1,0,0,1,0,0,slight_rs,1,Alsace Pinot Gris,1,0
+7,moderate,moderate,0,elevated,1,0,gold,0,0,0,1,0,0,off-dry,0,Alsace Pinot Gris,0,0
+8,elevated,elevated,0,moderate,0,0,gold,0,0,0,1,0,0,slight_rs,1,Alsace Pinot Gris,0,0
+9,moderate,elevated,1,moderate,0,0,yellow,1,0,0,1,0,0,slight_rs,1,Alsace Pinot Gris,0,0
+10,elevated,moderate,0,moderate,1,0,yellow,1,0,0,1,0,0,slight_rs,0,Alsace Pinot Gris,1,0
+11,elevated,moderate,1,elevated,1,0,yellow,0,0,0,1,0,0,slight_rs,1,Alsace Pinot Gris,1,0
+12,moderate,moderate,0,light,1,0,gold,1,0,0,1,1,0,off-dry,1,Alsace Pinot Gris,0,0
+13,moderate,moderate,1,light,0,0,gold,0,0,0,1,0,0,slight_rs,1,Alsace Pinot Gris,1,0
+14,elevated,moderate,0,light,0,0,gold,1,0,0,1,1,0,slight_rs,1,Alsace Pinot Gris,0,0
+15,moderate,elevated,1,light,0,0,gold,1,0,0,1,0,0,slight_rs,0,Alsace Pinot Gris,0,0
+16,moderate,moderate,1,light,0,0,gold,1,0,0,1,0,0,slight_rs,1,Alsace Pinot Gris,0,0
+17,moderate,moderate,1,moderate,1,0,yellow,1,0,0,1,1,0,off-dry,0,Alsace Pinot Gris,0,0
+18,moderate,moderate,0,light,0,0,gold,0,0,0,1,0,0,slight_rs,1,Alsace Pinot Gris,0,0
+19,moderate,moderate,1,moderate,0,0,yellow,1,0,0,1,0,0,slight_rs,1,Alsace Pinot Gris,1,0
+20,elevated,moderate,1,moderate,0,0,gold,1,0,0,1,1,0,slight_rs,1,Alsace Pinot Gris,0,0
+21,elevated,elevated,0,light,1,0,yellow,1,0,0,1,0,0,slight_rs,1,Alsace Pinot Gris,0,0
+22,elevated,moderate,0,moderate,0,0,gold,0,0,0,1,0,0,slight_rs,1,Alsace Pinot Gris,0,0
+23,moderate,elevated,0,light,0,0,gold,0,0,0,1,0,0,slight_rs,1,Alsace Pinot Gris,0,0
+24,moderate,moderate,0,elevated,1,0,yellow,0,0,0,1,0,0,slight_rs,1,Alsace Pinot Gris,1,0
+25,moderate,moderate,0,moderate,0,0,gold,1,0,0,1,0,0,slight_rs,1,Alsace Pinot Gris,0,0
+26,elevated,moderate,0,light,1,0,yellow,0,0,0,1,0,0,off-dry,1,Alsace Pinot Gris,0,0
+27,elevated,moderate,1,moderate,1,0,yellow,0,0,0,1,1,0,off-dry,1,Alsace Pinot Gris,0,0
+28,moderate,moderate,1,moderate,1,0,gold,0,0,0,1,0,0,slight_rs,1,Alsace Pinot Gris,0,0
+29,elevated,moderate,0,light,0,0,gold,0,0,0,1,0,0,slight_rs,1,Alsace Pinot Gris,0,0
+0,elevated,high,0,light,0,0,yellow,0,1,0,0,0,1,dry,0,CA Sauvignon Blanc,1,0
+1,moderate,elevated,0,light,0,0,straw,0,1,0,0,0,1,dry,0,CA Sauvignon Blanc,0,0
+2,elevated,elevated,0,moderate,0,0,straw,0,1,0,0,0,1,dry,0,CA Sauvignon Blanc,0,0
+3,elevated,high,0,light,0,0,straw,0,1,0,0,0,1,dry,0,CA Sauvignon Blanc,1,0
+4,elevated,high,0,light,0,0,straw,0,1,0,0,0,1,dry,0,CA Sauvignon Blanc,0,0
+5,moderate,elevated,0,light,0,0,yellow,0,1,0,0,0,1,dry,0,CA Sauvignon Blanc,0,0
+6,moderate,high,0,light,0,0,yellow,0,1,0,0,0,1,dry,0,CA Sauvignon Blanc,0,0
+7,moderate,elevated,0,light,0,0,straw,0,1,0,0,0,1,dry,0,CA Sauvignon Blanc,0,0
+8,elevated,high,0,light,0,0,yellow,0,1,0,0,0,1,dry,0,CA Sauvignon Blanc,0,0
+9,elevated,elevated,0,light,0,0,straw,0,1,0,0,0,1,dry,0,CA Sauvignon Blanc,1,0
+10,elevated,high,0,light,0,0,straw,0,1,0,0,0,1,dry,0,CA Sauvignon Blanc,1,0
+11,moderate,elevated,0,light,0,0,yellow,0,1,0,0,0,1,dry,0,CA Sauvignon Blanc,1,0
+12,elevated,elevated,0,moderate,0,0,straw,0,1,0,0,0,1,dry,0,CA Sauvignon Blanc,0,0
+13,moderate,elevated,0,light,0,0,straw,0,1,0,0,0,1,dry,0,CA Sauvignon Blanc,0,0
+14,moderate,high,0,light,0,0,straw,0,1,0,0,0,1,dry,0,CA Sauvignon Blanc,0,0
+15,moderate,elevated,0,moderate,0,0,yellow,0,1,0,0,0,1,dry,0,CA Sauvignon Blanc,1,0
+16,elevated,elevated,0,moderate,0,0,yellow,0,1,0,0,0,1,dry,0,CA Sauvignon Blanc,1,0
+17,elevated,high,0,moderate,0,0,straw,0,1,0,0,0,1,dry,0,CA Sauvignon Blanc,0,0
+18,moderate,elevated,0,light,0,0,straw,0,1,0,0,0,1,dry,0,CA Sauvignon Blanc,1,0
+19,moderate,high,0,light,0,0,straw,0,1,0,0,0,1,dry,0,CA Sauvignon Blanc,0,0
+20,moderate,high,0,light,0,0,yellow,0,1,0,0,0,1,dry,0,CA Sauvignon Blanc,1,0
+21,elevated,high,0,moderate,0,0,straw,0,1,0,0,0,1,dry,0,CA Sauvignon Blanc,1,0
+22,elevated,elevated,0,light,0,0,straw,0,1,0,0,0,1,dry,0,CA Sauvignon Blanc,0,0
+23,elevated,elevated,0,moderate,0,0,straw,0,1,0,0,0,1,dry,0,CA Sauvignon Blanc,1,0
+24,moderate,elevated,0,light,0,0,straw,0,1,0,0,0,1,dry,0,CA Sauvignon Blanc,0,0
+25,moderate,elevated,0,light,0,0,yellow,0,1,0,0,0,1,dry,0,CA Sauvignon Blanc,1,0
+26,elevated,elevated,0,moderate,0,0,straw,0,1,0,0,0,1,dry,0,CA Sauvignon Blanc,1,0
+27,elevated,elevated,0,light,0,0,straw,0,1,0,0,0,1,dry,0,CA Sauvignon Blanc,1,0
+28,moderate,high,0,light,0,0,straw,0,1,0,0,0,1,dry,0,CA Sauvignon Blanc,1,0
+29,moderate,elevated,0,moderate,0,0,straw,0,1,0,0,0,1,dry,0,CA Sauvignon Blanc,0,0
+0,elevated,elevated,1,moderate,1,0,straw,1,0,0,1,0,0,dry,1,Gruner Veltliner - Smaragd/Reserve,1,1
+1,elevated,elevated,1,moderate,1,0,straw,1,0,0,1,0,0,dry,0,Gruner Veltliner - Smaragd/Reserve,0,1
+2,high,elevated,0,light,1,0,yellow,1,0,0,1,0,0,dry,1,Gruner Veltliner - Smaragd/Reserve,0,1
+3,elevated,elevated,1,elevated,1,0,yellow,1,0,0,1,0,0,dry,1,Gruner Veltliner - Smaragd/Reserve,0,1
+4,elevated,elevated,1,light,1,0,yellow,1,0,0,1,0,0,dry,1,Gruner Veltliner - Smaragd/Reserve,1,1
+5,elevated,elevated,1,moderate,0,0,straw,1,0,0,1,0,0,dry,0,Gruner Veltliner - Smaragd/Reserve,1,1
+6,elevated,elevated,0,moderate,0,0,straw,1,0,0,1,0,0,dry,1,Gruner Veltliner - Smaragd/Reserve,0,1
+7,elevated,elevated,1,moderate,1,0,yellow,1,0,0,1,0,0,dry,1,Gruner Veltliner - Smaragd/Reserve,1,1
+8,elevated,elevated,1,elevated,1,0,straw,1,0,0,1,0,0,dry,1,Gruner Veltliner - Smaragd/Reserve,0,1
+9,elevated,elevated,1,light,0,0,straw,1,0,0,1,0,0,dry,1,Gruner Veltliner - Smaragd/Reserve,0,1
+10,high,elevated,0,light,0,0,straw,1,0,0,1,0,0,dry,1,Gruner Veltliner - Smaragd/Reserve,0,1
+11,elevated,elevated,0,light,1,0,straw,1,0,0,1,0,0,dry,1,Gruner Veltliner - Smaragd/Reserve,0,1
+12,elevated,elevated,1,elevated,1,0,yellow,1,0,0,1,0,0,dry,1,Gruner Veltliner - Smaragd/Reserve,1,1
+13,elevated,elevated,0,light,0,0,yellow,1,0,0,1,0,0,dry,1,Gruner Veltliner - Smaragd/Reserve,1,1
+14,elevated,elevated,0,moderate,0,0,yellow,1,0,0,1,0,0,dry,1,Gruner Veltliner - Smaragd/Reserve,0,1
+15,elevated,elevated,1,moderate,0,0,yellow,1,0,0,1,0,0,dry,1,Gruner Veltliner - Smaragd/Reserve,1,1
+16,elevated,elevated,0,light,1,0,yellow,1,0,0,1,0,0,dry,1,Gruner Veltliner - Smaragd/Reserve,1,1
+17,elevated,elevated,1,elevated,1,0,yellow,1,0,0,1,0,0,dry,0,Gruner Veltliner - Smaragd/Reserve,0,1
+18,elevated,elevated,1,moderate,1,0,straw,1,0,0,1,0,0,dry,1,Gruner Veltliner - Smaragd/Reserve,1,1
+19,elevated,elevated,1,elevated,1,0,straw,1,0,0,1,0,0,dry,1,Gruner Veltliner - Smaragd/Reserve,0,1
+20,high,elevated,0,moderate,0,0,straw,1,0,0,1,0,0,dry,1,Gruner Veltliner - Smaragd/Reserve,1,1
+21,elevated,elevated,0,moderate,1,0,straw,1,0,0,1,0,0,dry,0,Gruner Veltliner - Smaragd/Reserve,0,1
+22,elevated,elevated,1,moderate,1,0,yellow,1,0,0,1,0,0,dry,1,Gruner Veltliner - Smaragd/Reserve,1,1
+23,elevated,elevated,0,moderate,0,0,straw,1,0,0,1,0,0,dry,0,Gruner Veltliner - Smaragd/Reserve,1,1
+24,elevated,elevated,0,elevated,0,0,yellow,1,0,0,1,0,0,dry,1,Gruner Veltliner - Smaragd/Reserve,0,1
+25,elevated,elevated,1,light,0,0,yellow,1,0,0,1,0,0,dry,1,Gruner Veltliner - Smaragd/Reserve,1,1
+26,elevated,elevated,1,light,1,0,yellow,1,0,0,1,0,0,dry,1,Gruner Veltliner - Smaragd/Reserve,1,1
+27,elevated,elevated,1,light,1,0,yellow,1,0,0,1,0,0,dry,1,Gruner Veltliner - Smaragd/Reserve,0,1
+28,elevated,elevated,0,light,1,0,straw,1,0,0,1,0,0,dry,1,Gruner Veltliner - Smaragd/Reserve,1,1
+29,elevated,elevated,1,light,0,0,straw,1,0,0,1,0,0,dry,0,Gruner Veltliner - Smaragd/Reserve,0,1
+0,high,moderate,1,elevated,0,0,yellow,0,0,1,0,1,0,slight_rs,0,Vouvray,0,0
+1,high,moderate,1,moderate,0,0,yellow,0,0,1,0,1,0,slight_rs,0,Vouvray,0,0
+2,high,moderate,0,moderate,0,0,gold,0,0,1,0,1,0,off-dry,0,Vouvray,0,0
+3,high,moderate,0,elevated,0,0,yellow,0,0,0,0,1,0,slight_rs,0,Vouvray,0,0
+4,high,moderate,0,elevated,0,0,yellow,0,0,1,0,1,0,slight_rs,0,Vouvray,0,0
+5,high,moderate,0,moderate,0,0,yellow,0,0,1,0,1,0,slight_rs,0,Vouvray,0,0
+6,high,moderate,1,moderate,0,0,yellow,0,0,1,0,1,0,slight_rs,0,Vouvray,0,0
+7,high,moderate,1,moderate,0,0,gold,0,0,1,0,1,0,off-dry,0,Vouvray,0,0
+8,high,moderate,1,moderate,0,0,yellow,0,0,1,0,1,0,slight_rs,0,Vouvray,0,0
+9,high,moderate,0,moderate,0,0,yellow,0,0,1,0,1,0,off-dry,0,Vouvray,0,0
+10,high,moderate,0,moderate,0,0,yellow,0,0,1,0,1,0,off-dry,0,Vouvray,0,0
+11,high,moderate,1,elevated,0,0,gold,0,0,1,0,1,0,slight_rs,0,Vouvray,0,0
+12,high,moderate,1,moderate,0,0,gold,0,0,1,0,1,0,off-dry,0,Vouvray,0,0
+13,high,moderate,1,elevated,0,0,yellow,0,0,1,0,1,0,slight_rs,0,Vouvray,0,0
+14,high,moderate,1,moderate,0,0,yellow,0,0,1,0,1,0,off-dry,0,Vouvray,0,0
+15,high,moderate,0,moderate,0,0,gold,0,0,1,0,1,0,slight_rs,0,Vouvray,0,0
+16,high,moderate,1,moderate,0,0,gold,0,0,1,0,1,0,off-dry,0,Vouvray,0,0
+17,high,moderate,1,moderate,0,0,yellow,0,0,1,0,1,0,slight_rs,0,Vouvray,0,0
+18,high,moderate,1,moderate,0,0,yellow,0,0,0,0,1,0,off-dry,0,Vouvray,0,0
+19,high,moderate,0,elevated,0,0,yellow,0,0,1,0,1,0,slight_rs,0,Vouvray,0,0
+20,high,moderate,1,elevated,0,0,gold,0,0,0,0,1,0,slight_rs,0,Vouvray,0,0
+21,high,moderate,1,elevated,0,0,yellow,0,0,1,0,1,0,slight_rs,0,Vouvray,0,0
+22,high,moderate,0,elevated,0,0,yellow,0,0,0,0,1,0,slight_rs,0,Vouvray,0,0
+23,high,moderate,0,elevated,0,0,gold,0,0,1,0,1,0,off-dry,0,Vouvray,0,0
+24,high,moderate,1,moderate,0,0,yellow,0,0,1,0,1,0,slight_rs,0,Vouvray,0,0
+25,high,moderate,0,moderate,0,0,yellow,0,0,1,0,1,0,off-dry,0,Vouvray,0,0
+26,high,moderate,1,moderate,0,0,yellow,0,0,0,0,1,0,off-dry,0,Vouvray,0,0
+27,high,moderate,1,elevated,0,0,yellow,0,0,0,0,1,0,slight_rs,0,Vouvray,0,0
+28,high,moderate,1,moderate,0,0,gold,0,0,1,0,1,0,slight_rs,0,Vouvray,0,0
+29,high,moderate,0,elevated,0,0,yellow,0,0,1,0,1,0,off-dry,0,Vouvray,0,0
+0,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,off-dry,0,Riesling (Germany),0,0
+1,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,off-dry,0,Riesling (Germany),0,0
+2,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,off-dry,0,Riesling (Germany),0,0
+3,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,off-dry,0,Riesling (Germany),0,0
+4,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,off-dry,0,Riesling (Germany),0,0
+5,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,off-dry,0,Riesling (Germany),0,0
+6,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,off-dry,0,Riesling (Germany),0,0
+7,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,off-dry,0,Riesling (Germany),0,0
+8,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,off-dry,0,Riesling (Germany),0,0
+9,high,diminished,0,light,1,0,straw,0,0,0,0,0,0,off-dry,0,Riesling (Germany),0,0
+10,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,off-dry,0,Riesling (Germany),0,0
+11,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,off-dry,0,Riesling (Germany),0,0
+12,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,off-dry,0,Riesling (Germany),0,0
+13,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,off-dry,0,Riesling (Germany),0,0
+14,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,off-dry,0,Riesling (Germany),0,0
+15,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,off-dry,0,Riesling (Germany),0,0
+16,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,off-dry,0,Riesling (Germany),0,0
+17,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,off-dry,0,Riesling (Germany),0,0
+18,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,off-dry,0,Riesling (Germany),0,0
+19,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,off-dry,0,Riesling (Germany),0,0
+20,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,off-dry,0,Riesling (Germany),0,0
+21,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,off-dry,0,Riesling (Germany),0,0
+22,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,off-dry,0,Riesling (Germany),0,0
+23,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,off-dry,0,Riesling (Germany),0,0
+24,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,off-dry,0,Riesling (Germany),0,0
+25,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,off-dry,0,Riesling (Germany),0,0
+26,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,off-dry,0,Riesling (Germany),0,0
+27,high,diminished,0,light,1,0,straw,0,0,0,0,0,0,off-dry,0,Riesling (Germany),0,0
+28,high,diminished,0,light,1,0,straw,1,0,0,0,0,0,off-dry,0,Riesling (Germany),0,0
+29,high,diminished,0,light,1,0,straw,0,0,0,0,0,0,off-dry,0,Riesling (Germany),0,0
+0,elevated,elevated,0,light,0,0,straw,0,1,0,0,0,1,dry,0,Bordeaux Sauv/Semillon blend,0,0
+1,elevated,high,0,light,0,0,yellow,0,1,0,0,0,1,dry,0,Bordeaux Sauv/Semillon blend,1,0
+2,high,elevated,0,light,0,0,straw,0,1,0,0,0,1,dry,0,Bordeaux Sauv/Semillon blend,1,0
+3,high,elevated,0,light,0,0,straw,0,1,0,0,0,1,dry,0,Bordeaux Sauv/Semillon blend,0,0
+4,high,moderate,0,light,0,0,straw,0,1,0,0,0,1,dry,0,Bordeaux Sauv/Semillon blend,0,0
+5,elevated,moderate,0,light,0,0,straw,0,1,0,0,0,1,dry,0,Bordeaux Sauv/Semillon blend,1,0
+6,high,elevated,0,light,0,0,straw,0,1,0,0,0,1,dry,0,Bordeaux Sauv/Semillon blend,1,0
+7,high,elevated,0,light,0,0,straw,0,1,0,0,0,1,dry,0,Bordeaux Sauv/Semillon blend,0,0
+8,high,moderate,0,light,0,0,yellow,0,1,0,0,0,1,dry,0,Bordeaux Sauv/Semillon blend,1,0
+9,high,elevated,0,light,0,0,straw,0,1,0,0,0,1,dry,0,Bordeaux Sauv/Semillon blend,0,0
+10,high,elevated,0,light,0,0,straw,0,1,0,0,0,1,dry,0,Bordeaux Sauv/Semillon blend,0,0
+11,elevated,elevated,0,light,0,0,straw,0,1,0,0,0,1,dry,0,Bordeaux Sauv/Semillon blend,1,0
+12,high,elevated,0,light,0,0,straw,0,1,0,0,0,1,dry,0,Bordeaux Sauv/Semillon blend,0,0
+13,elevated,elevated,0,light,0,0,yellow,0,1,0,0,0,1,dry,0,Bordeaux Sauv/Semillon blend,0,0
+14,elevated,elevated,0,light,0,0,straw,0,1,0,0,0,1,dry,0,Bordeaux Sauv/Semillon blend,1,0
+15,elevated,elevated,0,light,0,0,yellow,0,1,0,0,0,1,dry,0,Bordeaux Sauv/Semillon blend,1,0
+16,high,high,0,light,0,0,straw,0,1,0,0,0,1,dry,0,Bordeaux Sauv/Semillon blend,1,0
+17,high,elevated,0,moderate,0,0,straw,0,1,0,0,0,1,dry,0,Bordeaux Sauv/Semillon blend,0,0
+18,elevated,high,0,light,0,0,yellow,0,1,0,0,0,1,dry,0,Bordeaux Sauv/Semillon blend,0,0
+19,high,moderate,0,light,0,0,yellow,0,1,0,0,0,1,dry,0,Bordeaux Sauv/Semillon blend,1,0
+20,high,moderate,0,light,0,0,yellow,0,1,0,0,0,1,dry,0,Bordeaux Sauv/Semillon blend,1,0
+21,high,moderate,0,light,0,0,yellow,0,1,0,0,0,1,dry,0,Bordeaux Sauv/Semillon blend,0,0
+22,high,elevated,0,light,0,0,yellow,0,1,0,0,0,1,dry,0,Bordeaux Sauv/Semillon blend,1,0
+23,elevated,elevated,0,moderate,0,0,yellow,0,1,0,0,0,1,dry,0,Bordeaux Sauv/Semillon blend,0,0
+24,high,elevated,0,light,0,0,straw,0,1,0,0,0,1,dry,0,Bordeaux Sauv/Semillon blend,1,0
+25,elevated,elevated,0,light,0,0,straw,0,1,0,0,0,1,dry,0,Bordeaux Sauv/Semillon blend,0,0
+26,high,elevated,0,light,0,0,straw,0,1,0,0,0,1,dry,0,Bordeaux Sauv/Semillon blend,0,0
+27,elevated,elevated,0,light,0,0,straw,0,1,0,0,0,1,dry,0,Bordeaux Sauv/Semillon blend,1,0
+28,elevated,elevated,0,light,0,0,yellow,0,1,0,0,0,1,dry,0,Bordeaux Sauv/Semillon blend,1,0
+29,high,elevated,0,moderate,0,0,yellow,0,1,0,0,0,1,dry,0,Bordeaux Sauv/Semillon blend,0,0

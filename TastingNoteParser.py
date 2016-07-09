@@ -30,6 +30,7 @@ def getRS(tastingNote):
     for value in enum:
         try:
             tokens.index(value)
+            print 'sweetness recognized as '+value
             return value
         except:
             continue
@@ -60,7 +61,7 @@ def getColorConcentration(tastingNote):
         except:
             continue
     if wordPair != None:
-        enum = ['light','moderate','elevated','high']
+        enum = ['light','moderate','elevated']
         for value in enum:
             try:
                 wordPair.index(value)
@@ -68,20 +69,68 @@ def getColorConcentration(tastingNote):
                 return value
             except:
                 continue
-        print 'error: color_concentration not recognized, use [light, moderate, elevated, high]'
+        print 'error: color_concentration not recognized, use [light, moderate, elevated]'
     print 'error: no color_concentration specified'
     return 'moderate' #default
 
+def getAlcohol(tastingNote):
+    wordPair = None
+    tokens = tastingNote.strip().split(', ')
+    for i in range(len(tokens)):
+        words = tokens[i].split()
+        try:
+            words.index('alcohol')
+            wordPair = words
+            break
+        except:
+            continue
+    if wordPair != None:
+        enum = ['diminished','moderate','elevated','high']
+        for value in enum:
+            try:
+                wordPair.index(value)
+                print 'alcohol recognized as '+ value
+                return value
+            except:
+                continue
+        print 'error: alcohol not recognized, use [diminished alcohol, moderate alcohol, elevated alcohol, high alcohol]'
+    print 'error: no alcohol specified'
+    return 'moderate' #default
+
+def getAcid(tastingNote):
+    wordPair = None
+    tokens = tastingNote.strip().split(', ')
+    for i in range(len(tokens)):
+        words = tokens[i].split()
+        try:
+            words.index('acid')
+            wordPair = words
+            break
+        except:
+            continue
+    if wordPair != None:
+        enum = ['diminished','moderate','elevated','high']
+        for value in enum:
+            try:
+                wordPair.index(value)
+                print 'acid recognized as '+ value
+                return value
+            except:
+                continue
+        print 'error: acid not recognized, use [diminished acid, moderate acid, elevated acid, high acid]'
+    print 'error: no acid specified'
+    return 'moderate' #default
+
+
 def getBooleanTraits(tastingNote):
     tokens = tastingNote.strip().split(', ')
-    print tokens
-    bool_enum = ['botrytis','floral','pyrazines','stone_fruit','thiols','terpenes','oak','pommaceous_fruit']
+    bool_enum = ['botrytis','floral','pyrazines','stone_fruit','thiols','low_terpenes','high_terpenes','oak','pommaceous_fruit','oxidation','phenolic_bitterness','white_pepper']
     traits = {}
     for value in bool_enum:
         try:
-            s_tokens = tokens.split()
-            s_tokens.index(value)
+            tokens.index(value)
             traits[value]=1
+            print "recognized " + value
         except:
             traits[value]=0
     return traits
@@ -91,6 +140,8 @@ def getAttributes(tastingNote):
     tn_dict['residual_sugar'] = getRS(tastingNote)
     tn_dict['hue']            = getHue(tastingNote)
     tn_dict['color_concentration']  = getColorConcentration(tastingNote)
+    tn_dict['alcohol'] = getAlcohol(tastingNote)
+    tn_dict['acid'] = getAcid(tastingNote)
     tn_dict.update(getBooleanTraits(tastingNote))
     return tn_dict
 
@@ -102,12 +153,15 @@ def getAttributes(tastingNote):
 # <codecell>
 
 #TEST:
-#string = 'slight rs, botrytis, light color_concentration, yellow, floral, stone fruit, thiols, oak, pommaceous fruit'
+string = 'slight rs, botrytis, light color_concentration, high acid, diminished alcohol, yellow, floral, stone fruit, thiols, oxidation, low_terpenes, high_terpenes, phenolic_bitterness, oak, pommaceous_fruit, pyrazines, white_pepper'
 
 # <codecell>
 
 #tn_dict=getAttributes(string)
 #tn_dict
+
+x = getBooleanTraits(string)
+x
 
 # <codecell>
 

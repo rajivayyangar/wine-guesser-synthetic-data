@@ -2,7 +2,7 @@ import sys, random, csv, datetime, re, pandas as pd, numpy as np, math
 from pandas import DataFrame, Series, date_range, concat
 
 # global constants:
-SAMPLES_PER_STYLE = 20
+SAMPLES_PER_STYLE = 30
 
 # global strings:
 STR_STYLE_NAME = 'style_name'
@@ -12,21 +12,25 @@ STR_ENUM_TRAITS = 'enum_traits'
 STR_HUE = 'hue'                 
 STR_COLOR_CONCENTRATION = 'color_concentration'
 STR_RESIDUAL_SUGAR = 'residual_sugar'
+STR_ALCOHOL = 'alcohol'
+STR_ACID = 'acid'
 
 
 # Functions for assembling the profiles from JSON:
-def assembleStyleProfile(style_name, hue, color_concentration, residual_sugar, boolean_traits):
+def assembleStyleProfile(style_name, hue, color_concentration, residual_sugar,alcohol,acid, boolean_traits):
     profile = {}
-    all_enum_traits =  assembleEnumTraits(hue,color_concentration,residual_sugar)
+    all_enum_traits =  assembleEnumTraits(hue,color_concentration,residual_sugar,alcohol,acid)
     profile[STR_ENUM_TRAITS] = all_enum_traits
     profile[STR_BOOLEAN_TRAITS] = boolean_traits
     profile[STR_STYLE_NAME] = style_name
     return profile
 
-def assembleEnumTraits(hue,color_concentration,residual_sugar):
+def assembleEnumTraits(hue,color_concentration,residual_sugar,alcohol,acid):
     enum_traits =  {STR_HUE:hue, 
                     STR_COLOR_CONCENTRATION:color_concentration, 
-                    STR_RESIDUAL_SUGAR:residual_sugar}
+                    STR_RESIDUAL_SUGAR:residual_sugar,
+                    STR_ALCOHOL:alcohol,
+                    STR_ACID:acid}
     return enum_traits
 
 
@@ -93,7 +97,7 @@ def generateSyntheticTastingNotes(style_name, bool_traits, enum_traits):
         enum_trait_note_values[trait]=generateSyntheticEnumTraitValues(enum_traits[trait])
     bool_traits_dict= generateSyntheticBooleanTraitValues(bool_traits) 
     note_array = []
-    for i in range(SAMPLES_PER_STYLE):# This is a liability - it relies on there being n=SAMPLES_PER_STYLE elements in the various arrays.
+    for i in range(SAMPLES_PER_STYLE):# This is a liability - it relies on there being n=SAMPLES_PER_STYLE elements in the various arrays. If the google sheet for enum styles doesn't add up to 1 this will fail.
         tasting_note = {}
         tasting_note[STR_STYLE_NAME] = style_name
         for enum_trait in enum_trait_note_values:
